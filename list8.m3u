@@ -1,0 +1,4005 @@
+#EXTM3U 
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", [COLOR yellow][I][B]*by:GersoftTVOnline*[/B][/I][/COLOR]
+http://bit.ly/Lista de canales by:GersoftTVOnline/
+
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos",  ESTRELLAS HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOROTV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOROTV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CANAL5 HD (1080)" tvg-logo="logotv.png" group-title="Latinos", CANAL5 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AZTECA 7" tvg-logo="logotv.png" group-title="Latinos", AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="GALATV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", GALATV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ONCE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", ONCE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
+
+
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TRECE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="PROYECTO40 HD (1080" tvg-logo="logotv.png" group-title="Latinos", PROYECTO40 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CANAL28" tvg-logo="logotv.png" group-title="Latinos", CANAL28
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="UNO MAS UNO" tvg-logo="logotv.png" group-title="Latinos", UNO MAS UNO
+http://200.76.77.237/LIVE/H01/CANAL145/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TELEFORMULA" tvg-logo="logotv.png" group-title="Latinos", TELEFORMULA
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="MULTIMEDIOS HD (1080)" tvg-logo="logotv.png" group-title="Latinos", MULTIMEDIOS HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="HMX" tvg-logo="logotv.png" group-title="Latinos", HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX" tvg-logo="logotv.png" group-title="Latinos", FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="SONY" tvg-logo="logotv.png" group-title="Latinos", SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="WARNER HD (1080)" tvg-logo="logotv.png" group-title="Latinos", WARNER HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVERSAL HD (1080)" tvg-logo="logotv.png" group-title="Latinos", UNIVERSAL HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FX HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FX HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AE" tvg-logo="logotv.png" group-title="Latinos", AE
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AXN" tvg-logo="logotv.png" group-title="Latinos", AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TRUTV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TRUTV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="COMEDY CENTRAL" tvg-logo="logotv.png" group-title="Latinos", COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVISION" tvg-logo="logotv.png" group-title="Latinos", UNIVISION
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AZTECA CORAZON" tvg-logo="logotv.png" group-title="Latinos", AZTECA CORAZON
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX" tvg-logo="logotv.png" group-title="Latinos", FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="BBC" tvg-logo="logotv.png" group-title="Latinos", BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="E" tvg-logo="logotv.png" group-title="Latinos", E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVERSAL" tvg-logo="logotv.png" group-title="Latinos", UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="SYFY" tvg-logo="logotv.png" group-title="Latinos", SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FX" tvg-logo="logotv.png" group-title="Latinos", FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ID" tvg-logo="logotv.png" group-title="Latinos", ID
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TNT SERIES" tvg-logo="logotv.png" group-title="Latinos", TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="GOURMET" tvg-logo="logotv.png" group-title="Latinos", GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="GARAGE TV" tvg-logo="logotv.png" group-title="Latinos", GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="GLITZ" tvg-logo="logotv.png" group-title="Latinos", GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX LIFE" tvg-logo="logotv.png" group-title="Latinos", FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISTRITO COMEDIA" tvg-logo="logotv.png" group-title="Latinos", DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TBS" tvg-logo="logotv.png" group-title="Latinos", TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TLNOVELAS" tvg-logo="logotv.png" group-title="Latinos", TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISCOVERY KIDS" tvg-logo="logotv.png" group-title="Latinos", DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="BEEBIES" tvg-logo="logotv.png" group-title="Latinos", CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY JR" tvg-logo="logotv.png" group-title="Latinos", DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NICK JR" tvg-logo="logotv.png" group-title="Latinos", NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY CHANNEL" tvg-logo="logotv.png" group-title="Latinos", DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NICKTOONS" tvg-logo="logotv.png" group-title="Latinos", NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NICK HD (1080)" tvg-logo="logotv.png" group-title="Latinos", NICK HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NICK" tvg-logo="logotv.png" group-title="Latinos", NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CARTOON NETWORK" tvg-logo="logotv.png" group-title="Latinos", CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY XD" tvg-logo="logotv.png" group-title="Latinos", DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="BOOMERANG" tvg-logo="logotv.png" group-title="Latinos", BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TIIN" tvg-logo="logotv.png" group-title="Latinos", TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TOONCAST" tvg-logo="logotv.png" group-title="Latinos", TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISC THEATER" tvg-logo="logotv.png" group-title="Latinos", DISC THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TU HISTORY" tvg-logo="logotv.png" group-title="Latinos", TU HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NATGEO WILD" tvg-logo="logotv.png" group-title="Latinos", NATGEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISC WORLD" tvg-logo="logotv.png" group-title="Latinos", DISC WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISCOVERY CHANNEL" tvg-logo="logotv.png" group-title="Latinos", DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ANIMAL PLANET" tvg-logo="logotv.png" group-title="Latinos", ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="H&H" tvg-logo="logotv.png" group-title="Latinos", H AND H
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="NATGEO CHANNEL" tvg-logo="logotv.png" group-title="Latinos", NATGEO CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="LIFETIME" tvg-logo="logotv.png" group-title="Latinos", LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISC SCIENCE" tvg-logo="logotv.png" group-title="Latinos", DISC SCIENCE
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DISC CIVILZATION" tvg-logo="logotv.png" group-title="Latinos", DISC CIVILZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TURBO" tvg-logo="logotv.png" group-title="Latinos", TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TLC" tvg-logo="logotv.png" group-title="Latinos", TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="WOBI" tvg-logo="logotv.png" group-title="Latinos", WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX1 HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX1 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX ACTION HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX ACTION HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX MOVIES HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX MOVIES HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX CINEMA" tvg-logo="logotv.png" group-title="Latinos", FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOX CLASSICS" tvg-logo="logotv.png" group-title="Latinos", FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CINECANAL+ HD (1080)" tvg-logo="logotv.png" group-title="Latinos", CINECANAL+ HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TNT HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TNT HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="GOLDEN HD (1080)" tvg-logo="logotv.png" group-title="Latinos", GOLDEN HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FILM ZONE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FILM ZONE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="DEPELICULA HD (1080)" tvg-logo="logotv.png" group-title="Latinos", DEPELICULA HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AMC HD (1080)" tvg-logo="logotv.png" group-title="Latinos", AMC HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="SPACE" tvg-logo="logotv.png" group-title="Latinos", SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CINECANAL" tvg-logo="logotv.png" group-title="Latinos", CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="CINEMAX" tvg-logo="logotv.png" group-title="Latinos", CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TNT" tvg-logo="logotv.png" group-title="Latinos", TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="EDGE" tvg-logo="logotv.png" group-title="Latinos", EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AMC" tvg-logo="logotv.png" group-title="Latinos", AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="SPACE" tvg-logo="logotv.png" group-title="Latinos", SPACE
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="STUDIO" tvg-logo="logotv.png" group-title="Latinos", STUDIO
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="iSAT" tvg-logo="logotv.png" group-title="Latinos", iSAT
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TMC" tvg-logo="logotv.png" group-title="Latinos", TMC
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN HD (1080)" tvg-logo="logotv.png" group-title="Latinos", ESPN HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN 3" tvg-logo="logotv.png" group-title="Latinos", ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOXSPORTS" tvg-logo="logotv.png" group-title="Latinos", FOXSPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="FOXSPORTS 2" tvg-logo="logotv.png" group-title="Latinos", FOXSPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="PX" tvg-logo="logotv.png" group-title="Latinos", PX
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN" tvg-logo="logotv.png" group-title="Latinos", ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN 2" tvg-logo="logotv.png" group-title="Latinos", ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="AYM SPORTS" tvg-logo="logotv.png" group-title="Latinos", AYM SPORTS
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="MILENIO TV" tvg-logo="logotv.png" group-title="Latinos", MILENIO TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="BLOOMBERG" tvg-logo="logotv.png" group-title="Latinos", BLOOMBERG
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="MTVLIVE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", MTVLIVE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="TELEHIT HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TELEHIT HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="VHI HD (1080)" tvg-logo="logotv.png" group-title="Latinos", VHI HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="MTV" tvg-logo="logotv.png" group-title="Latinos", MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="MTV HITS" tvg-logo="logotv.png" group-title="Latinos", MTV HITS
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="1CLASSIC" tvg-logo="logotv.png" group-title="Latinos", 1CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="RITMOSON" tvg-logo="logotv.png" group-title="Latinos", RITMOSON
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, tvg-id="1" tvg-name="BANDAMAX" tvg-logo="logotv.png" group-title="Latinos", BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, Test 1
+http://200.76.77.237/LIVE/H01/CANAL733/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, Test 2
+http://200.76.77.237/LIVE/H01/CANAL734/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Ocho TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Azteca Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
+
+#EXTINF:-1,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nickelodeon (Nick)
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,Cinecanal +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Golden HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,De Película HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Space
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cinemax (O)
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:-1, MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV",Once TV
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Ocho TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Azteca Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
+#EXTINF:-1,TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Foro TV HD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Multimedios Plus
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Multimedios Plus
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-id="Fox",FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,FX
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Garage TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Más chic
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Sony
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Warner Channel
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TruTV
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Az Mundo
+
+#EXTINF:-1,BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Mundo Fox
+http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429&f=mariocs.m3u8
+#EXTINF:-1,I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1,Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,NatGeo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,History Channel
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AMERICATEVE MIAMI by:gersoft
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+#EXTINF:-1,TV MARTI NOTICIAS CUBA by:gersoft
+mms://a165.1211035484.c2110.g.lm.akamaistream.net/D/165/2110/v0001/reflector:35484
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", [COLOR yellow][I][B]Continuare Agregando Canales[/B][/I][/COLOR]
+http://bit.ly/Lista Editada by:Gersoft @SuperModerador/
+
+#EXTM3U
+#EXTINF:0,TLC HD 
+http://109.187.239.194:4022/udp/239.98.1.188:1234 
+#EXTINF:156,VH1 Classic 
+http://109.187.239.194:4022/udp/239.98.1.129:1234 
+#EXTINF:213,Universal Channel 
+http://109.187.239.194:4022/udp/239.98.1.65:1234
+ 
+#EXTINF:311,SONY
+http://109.187.239.194:4022/udp/239.98.1.84:1234 
+#EXTINF:0,Discovery Channel 
+http://109.187.239.194:4022/udp/239.98.1.22:1234 
+#EXTINF:332,MTV Dance 
+http://109.187.239.194:4022/udp/239.98.1.124:1234 
+#EXTINF:355,Deutsche Welle 
+http://109.187.239.194:4022/udp/239.98.1.74:1234 
+#EXTINF:382,MTV Live HD 
+http://109.187.239.194:4022/udp/239.98.1.144:1234 
+#EXTINF:388,MTV Rocks 
+http://109.187.239.194:4022/udp/239.98.1.120:1234 
+#EXTINF:423,Nickelodeon HD 
+http://109.187.239.194:4022/udp/239.98.1.143:1234 
+#EXTINF:491,VH1 European 
+http://109.187.239.194:4022/udp/239.98.1.165:1234 
+#EXTINF:516,SONY SCI-FI 
+http://109.187.239.194:4022/udp/239.98.1.141:1234 
+#EXTINF:533,MCM TOP 
+http://109.187.239.194:4022/udp/239.98.1.149:1234 
+#EXTINF:560,Eurosport HD 
+http://109.187.239.194:4022/udp/239.98.1.191:1234 
+#EXTINF:849,MTV Hits 
+http://109.187.239.194:4022/udp/239.98.1.118:1234 
+#EXTINF:935,Sony Turbo 
+http://109.187.239.194:4022/udp/239.98.1.166:1234 
+#EXTINF:0,Animal Planet HD
+http://109.187.239.194:4022/udp/239.98.1.187:1234
+#EXTINF:0,Discovery Channel HD
+http://109.187.239.194:4022/udp/239.98.1.186:1234
+#EXTINF:0,MGM HD
+http://109.187.239.194:4022/udp/239.98.1.169:1234
+#EXTINF:0,Nickelodeon 
+http://109.187.239.194:4022/udp/239.98.1.106:1234 
+#EXTM3U
+#EXTINF:-1,1 CLASSIC
+http://206.190.150.95/hash/526/10/asd/477.m3u8
+#EXTINF:-1,A&E
+http://206.190.150.95/hash/526/10/asd/105.m3u8
+#EXTINF:-1,AMC
+http://206.190.150.95/hash/526/10/asd/329.m3u8
+#EXTINF:-1,AMC
+http://206.190.150.95/hash/526/10/asd/365.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://206.190.150.95/hash/526/10/asd/261.m3u8
+#EXTINF:-1,AXN
+http://206.190.150.95/hash/526/10/asd/109.m3u8
+#EXTINF:-1,AYM SPORTS
+http://206.190.150.95/hash/526/10/asd/465.m3u8
+#EXTINF:-1,AZTECA NOTICIAS
+http://206.190.150.95/hash/526/10/asd/002.m3u8
+#EXTINF:-1,AZTECA SIETE
+http://206.190.150.95/hash/526/10/asd/056.m3u8
+#EXTINF:-1,AZTECA SIETE
+http://206.190.150.95/hash/526/10/asd/006.m3u8
+#EXTINF:-1,AZTECA TRECE
+http://206.190.150.95/hash/526/10/asd/068.m3u8
+#EXTINF:-1,BANDAMAX
+http://206.190.150.95/hash/526/10/asd/449.m3u8
+#EXTINF:-1,BBC ENTRETAINMENT
+http://206.190.150.95/hash/526/10/asd/129.m3u8
+#EXTINF:-1,BLOOMBERG
+http://206.190.150.95/hash/526/10/asd/462.m3u8
+#EXTINF:-1,BOOMERANG
+http://206.190.150.95/hash/526/10/asd/230.m3u8
+#EXTINF:-1,CANAL 5
+http://206.190.150.95/hash/526/10/asd/037.m3u8
+#EXTINF:-1,CANAL 5
+http://206.190.150.95/hash/526/10/asd/049.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://206.190.150.95/hash/526/10/asd/041.m3u8
+#EXTINF:-1,CBEEBIES
+http://206.190.150.95/hash/526/10/asd/198.m3u8
+#EXTINF:-1,CINECANAL
+http://206.190.150.95/hash/526/10/asd/349.m3u8
+#EXTINF:-1,CINEMAX
+http://206.190.150.95/hash/526/10/asd/353.m3u8
+#EXTINF:-1,CINECANAL+
+http://206.190.150.95/hash/526/10/asd/309.m3u8
+#EXTINF:-1,CINE COMEDIA
+http://206.190.150.95/hash/526/10/asd/117.m3u8
+#EXTINF:-1,DEPELICULA
+http://206.190.150.95/hash/526/10/asd/325.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://206.190.150.95/hash/526/10/asd/257.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://206.190.150.95/hash/526/10/asd/281.m3u8
+#EXTINF:-1,DISCOVERY H&H
+http://206.190.150.95/hash/526/10/asd/266.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://206.190.150.95/hash/526/10/asd/194.m3u8
+#EXTINF:-1,DISCOVERY SCI
+http://206.190.150.95/hash/526/10/asd/278.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://206.190.150.95/hash/526/10/asd/286.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://206.190.150.95/hash/526/10/asd/253.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://206.190.150.95/hash/526/10/asd/210.m3u8
+#EXTINF:-1,DISNEY JR
+http://206.190.150.95/hash/526/10/asd/201.m3u8
+#EXTINF:-1,DISNEY XD
+http://206.190.150.95/hash/526/10/asd/225.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://206.190.150.95/hash/526/10/asd/173.m3u8
+#EXTINF:-1,E!
+http://206.190.150.95/hash/526/10/asd/133.m3u8
+#EXTINF:-1,ESPN 2
+http://206.190.150.95/hash/526/10/asd/409.m3u8
+#EXTINF:-1,ESPN COMPACT
+http://206.190.150.95/hash/526/10/asd/393.m3u8
+#EXTINF:-1,ESPN
+http://206.190.150.95/hash/526/10/asd/389.m3u8
+#EXTINF:-1,ESPN
+http://206.190.150.95/hash/526/10/asd/405.m3u8
+#EXTINF:-1,FILM ZONE
+http://206.190.150.95/hash/526/10/asd/321.m3u8
+#EXTINF:-1,FOX ACTION
+http://206.190.150.95/hash/526/10/asd/301.m3u8
+#EXTINF:-1,FOX CINEMA
+http://206.190.150.95/hash/526/10/asd/337.m3u8
+#EXTINF:-1,FOX CINEMA
+http://206.190.150.95/hash/526/10/asd/489.m3u8
+#EXTINF:-1,FOX CLASSIC
+http://206.190.150.95/hash/526/10/asd/345.m3u8
+#EXTINF:-1,FOX CLASSIC
+http://206.190.150.95/hash/526/10/asd/493.m3u8
+#EXTINF:-1,FOX FAMILY
+http://206.190.150.95/hash/526/10/asd/341.m3u8
+#EXTINF:-1,FOX LIFE
+http://206.190.150.95/hash/526/10/asd/169.m3u8
+#EXTINF:-1,FOX MOVIE
+http://206.190.150.95/hash/526/10/asd/305.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://206.190.150.95/hash/526/10/asd/401.m3u8
+#EXTINF:-1,FOX SPORTS
+http://206.190.150.95/hash/526/10/asd/397.m3u8
+#EXTINF:-1,FOX
+http://206.190.150.95/hash/526/10/asd/125.m3u8
+#EXTINF:-1,FOX
+http://206.190.150.95/hash/526/10/asd/085.m3u8
+#EXTINF:-1,FOX1 HD
+http://206.190.150.95/hash/526/10/asd/297.m3u8
+#EXTINF:-1,FX
+http://206.190.150.95/hash/526/10/asd/101.m3u8
+#EXTINF:-1,FX
+http://206.190.150.95/hash/526/10/asd/145.m3u8
+#EXTINF:-1,GLITZ
+http://206.190.150.95/hash/526/10/asd/165.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://206.190.150.95/hash/526/10/asd/361.m3u8
+#EXTINF:-1,GOLDEN
+http://206.190.150.95/hash/526/10/asd/317.m3u8
+#EXTINF:-1,GOURMET
+http://206.190.150.95/hash/526/10/asd/161.m3u8
+#EXTINF:-1,HISTORY
+http://206.190.150.95/hash/526/10/asd/245.m3u8
+#EXTINF:-1,HMX
+http://206.190.150.95/hash/526/10/asd/472.m3u8
+#EXTINF:-1,ID
+http://206.190.150.95/hash/526/10/asd/153.m3u8
+#EXTINF:-1,ISAT
+http://206.190.150.95/hash/526/10/asd/377.m3u8
+#EXTINF:-1,LIFETIME
+http://206.190.150.95/hash/526/10/asd/273.m3u8
+#EXTINF:-1,MILENIO TV
+http://206.190.150.95/hash/526/10/asd/417.m3u8
+#EXTINF:-1,MTV HITS
+http://206.190.150.95/hash/526/10/asd/476.m3u8
+#EXTINF:-1,MTV LIVE
+http://206.190.150.95/hash/526/10/asd/429.m3u8
+#EXTINF:-1,MTV
+http://206.190.150.95/hash/526/10/asd/441.m3u8
+#EXTINF:-1,NATGEO WILD
+http://206.190.150.95/hash/526/10/asd/249.m3u8
+#EXTINF:-1,NATGEO
+http://206.190.150.95/hash/526/10/asd/269.m3u8
+#EXTINF:-1,NICK JR
+http://206.190.150.95/hash/526/10/asd/205.m3u8
+#EXTINF:-1,NICK HD
+http://206.190.150.95/hash/526/10/asd/213.m3u8
+#EXTINF:-1,NICKELODEON
+http://206.190.150.95/hash/526/10/asd/217.m3u8
+#EXTINF:-1,PROYECTO 40
+http://206.190.150.95/hash/526/10/asd/024.m3u8
+#EXTINF:-1,PROYECTO 40
+http://206.190.150.95/hash/526/10/asd/069.m3u8
+#EXTINF:-1,RITMOSON
+http://206.190.150.95/hash/526/10/asd/445.m3u8
+#EXTINF:-1,SONY
+http://206.190.150.95/hash/526/10/asd/089.m3u8
+#EXTINF:-1,SPACE
+http://206.190.150.95/hash/526/10/asd/333.m3u8
+#EXTINF:-1,SPACE
+http://206.190.150.95/hash/526/10/asd/369.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://206.190.150.95/hash/526/10/asd/373.m3u8
+#EXTINF:-1,SYFY
+http://206.190.150.95/hash/526/10/asd/141.m3u8
+#EXTINF:-1,TBS VERYFUNNY
+http://206.190.150.95/hash/526/10/asd/177.m3u8
+#EXTINF:-1,TCM
+http://206.190.150.95/hash/526/10/asd/381.m3u8
+#EXTINF:-1,TELEFORMULA
+http://206.190.150.95/hash/526/10/asd/081.m3u8
+#EXTINF:-1,TELEHIT
+http://206.190.150.95/hash/526/10/asd/433.m3u8
+#EXTINF:-1,TELENOVELAS
+http://206.190.150.95/hash/526/10/asd/185.m3u8
+#EXTINF:-1,TIIN
+http://206.190.150.95/hash/526/10/asd/233.m3u8
+#EXTINF:-1,TLC
+http://206.190.150.95/hash/526/10/asd/289.m3u8
+#EXTINF:-1,TNT HD
+http://206.190.150.95/hash/526/10/asd/313.m3u8
+#EXTINF:-1,TNT SERIES
+http://206.190.150.95/hash/526/10/asd/157.m3u8
+#EXTINF:-1,TNT
+http://206.190.150.95/hash/526/10/asd/357.m3u8
+#EXTINF:-1,TOONCAST
+http://206.190.150.95/hash/526/10/asd/237.m3u8
+#EXTINF:-1,TOTAL PLAY
+http://206.190.150.95/hash/526/10/asd/458.m3u8
+#EXTINF:-1,TRU TV
+http://206.190.150.95/hash/526/10/asd/113.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://206.190.150.95/hash/526/10/asd/421.m3u8
+#EXTINF:-1,UNICABLE
+http://206.190.150.95/hash/526/10/asd/121.m3u8
+#EXTINF:-1,UNIVERSAL
+http://206.190.150.95/hash/526/10/asd/137.m3u8
+#EXTINF:-1,UNIVERSAL
+http://206.190.150.95/hash/526/10/asd/097.m3u8
+#EXTINF:-1,UNO M
+http://206.190.150.95/hash/526/10/asd/497.m3u8
+#EXTINF:-1,VH1 HD
+http://206.190.150.95/hash/526/10/asd/437.m3u8
+#EXTINF:-1,WARNER
+http://206.190.150.95/hash/526/10/asd/093.m3u8
+#EXTINF:-1,WOBI
+http://206.190.150.95/hash/526/10/asd/293.m3u8
+
+#EXTM3U
+#EXTINF:-1,Azteca Siete HD1
+.2&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Azteca Trece HD1
+.13&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Canal de las Estrellas HD
+.52&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Canal 5 HD
+.55&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Canal 5SD
+.105&profile=5&f=.m3u8
+
+
+#EXTINF:-1,ESPN HD
+.516&profile=5&f=.m3u8
+
+
+#EXTINF:-1,ESPN
+.558&profile=5&f=.m3u8
+
+
+#EXTINF:-1,ESPN 2
+.561&profile=5&f=.m3u8
+
+
+#EXTINF:-1,ESPN 3
+.520&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Sports
+.522&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Sports 2
+.527&profile=5&f=.m3u8
+
+
+
+
+#EXTINF:-1,Fox 1 HD
+.415&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Cinecanal
+.480&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Cinecanal HD
+.430&profile=5&f=.m3u8
+
+
+#EXTINF:-1,AXN
+.213&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Universal Channel
+.207&profile=5&f=.m3u8
+
+
+#EXTINF:-1,TNT
+.435&profile=5&f=.m3u8
+
+
+#EXTINF:-1,TNT Series
+.266&profile=5&f=.m3u8
+
+
+
+
+#EXTINF:-1,FX HD
+.209&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Sony
+.203&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Space HD
+.445&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Warner Channel
+.492&profile=5&f=.m3u8
+
+
+#EXTINF:-1,AMC
+.444&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Cinemax
+.481&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Action HD
+.416&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Cinema
+.421&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Classics
+.424&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Movies HD
+.417&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Golden HD
+.436&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Golden Edge
+.484&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Studio Universal
+.492&profile=5&f=.m3u8
+
+
+#EXTINF:-1,MTV
+.726&profile=5&f=.m3u8
+
+
+#EXTINF:-1,MTV Hits
+.727&profile=5&f=.m3u8
+
+
+#EXTINF:-1,BBC Entertainment
+.253&profile=5&f=.m3u8
+
+
+#EXTINF:-1,E!
+.255&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Film Zone
+.440&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Channel
+.371&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Investigacion Discovery
+.263&profile=5&f=.m3u8
+
+
+#EXTINF:-1,National Geographic
+.377&profile=5&f=.m3u8
+
+
+#EXTINF:-1,NatGeo Wild HD
+.355&profile=5&f=.m3u8
+
+
+#EXTINF:-1,History HD
+.353&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Animal Planet
+.373&profile=5&f=.m3u8
+
+
+#EXTINF:-1,A&E HD
+.259&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Fox Life
+.271&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Casa Club TV
+.274&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Canal de las Estrellas
+.102&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Comedy Central
+.217&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Theather HD
+.351&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Science
+.381&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Civilization
+.382&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Turbo
+.383&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Home and Health
+.374&profile=5&f=.m3u8
+
+
+#EXTINF:-1,TruTV
+.215&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Telemundo
+.277&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Lifetime
+.379&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Distrito Comedia
+.272&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Tlnovelas
+.275&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Glitz
+.270&profile=5&f=.m3u8
+
+
+#EXTINF:-1,SyFy
+.257&profile=5&f=.m3u8
+
+
+#EXTINF:-1,TLC
+.386&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Enlace TV
+.391&profile=5&f=.m3u8
+
+
+
+
+#EXTINF:-1,Disney Channel
+.312&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Cartoon Network
+.320&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Disney XD
+.322&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Nickelodeon
+.317&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Nick HD
+.315&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Nicktoons
+.314&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Boomerang
+.324&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Tooncast
+.328&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Discovery Kids
+.303&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Disney Jr
+.308&profile=5&f=.m3u8
+
+
+#EXTINF:-1,Nick Jr
+.310&profile=5&f=.m3u8
+#EXTM3U
+#EXTINF:-1,4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+#EXTINF:-1,4 Seven
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:-1,4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+#EXTINF:-1,5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+#EXTINF:-1,5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1,BBC 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+#EXTINF:-1,BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+#EXTINF:-1,BBC 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:-1,BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+#EXTINF:-1,BBC WORLD NEWS
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+#EXTINF:-1,CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:-1,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+#EXTINF:-1,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+#EXTINF:-1,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+#EXTINF:-1,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+#EXTINF:-1,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+#EXTINF:-1,cnn m3u8
+http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8
+#EXTINF:-1,DAIL EIREANN rtsp
+rtsp://wms.servers.heanet.ie/Dail
+#EXTINF:-1,Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+#EXTINF:-1,Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+#EXTINF:-1,Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+#EXTINF:-1,E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+#EXTINF:-1,Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+#EXTINF:-1,Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+#EXTINF:-1,Florida-CarolCablesTV mms
+mms://207.7.154.95/G0937_002?wmcache=0
+#EXTINF:-1,Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+#EXTINF:-1,Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+#EXTINF:-1,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:-1,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:-1,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:-1,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+#EXTINF:-1,JCTV
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+#EXTINF:-1,JCTV Music, Mobile, Music Blender, Others US
+http://www.jctv.org/watchlive/jc-tv200.asx
+#EXTINF:-1,Knob Ch1 mms
+mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
+#EXTINF:-1,More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+#EXTINF:-1,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+#EXTINF:-1,MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+#EXTINF:-1,Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+#EXTINF:-1,Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+#EXTINF:-1,Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+#EXTINF:-1,Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+#EXTINF:-1,Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+#EXTINF:-1,RTE One
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:-1,RTE2
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:-1,RTEjr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:-1,Sky ARTRS 2
+http://188.227.189.18:8082/TV4250
+#EXTINF:-1,Sky Movies Action & Adventure
+http://188.227.189.18:8082/TV4245
+#EXTINF:-1,Sky Movies Comedy
+http://188.227.189.18:8082/TV4246
+#EXTINF:-1,Sky Movies Disney
+http://188.227.189.18:8082/TV4247
+#EXTINF:-1,Sky Movies Family
+http://188.227.189.18:8082/TV4248
+#EXTINF:-1,Sky Movies Premiere
+http://188.227.189.18:8082/TV4251
+#EXTINF:-1,Sky Movies Premiere+
+http://188.227.189.18:8082/TV4252
+#EXTINF:-1,Sky Movies SciFi
+http://188.227.189.18:8082/TV4249
+#EXTINF:-1,Sky Sky Movies Select
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+#EXTINF:-1,TG4
+http://212.250.46.35:4252/bysid/9603
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+#EXTINF:-1,TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+#EXTINF:-1,TV3
+http://212.250.46.35:4252/bysid/9605
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,BLOMBERG
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:-1,Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1,Channel 6 – City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN USA
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,Fox 1 HD (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1,FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1,FOX CLASSICS (US)
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,GMU TV (Virginia) mms
+mms://media.mesa.gmu.edu/capconwhite1
+#EXTINF:-1,NASA
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF:-1,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:-1,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1,News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1,News Westchester(Weather from Hudson Valley)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,ADULTO 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,Bizarre
+http://best-shqip-iptv.blogdns.com/stream/XXX3/ferid-012-2015/2003palas1502
+#EXTINF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,Japon DRP
+http://199.195.195.108:32002
+#EXTINF:-1,Japon TOKYO HOT
+http://199.195.195.108:32001
+#EXTINF:-1,Japon_03
+http://199.195.195.108:32003
+#EXTINF:-1,Japon_04
+http://199.195.195.108:32004
+#EXTINF:-1,Japon_05
+http://199.195.195.108:32005
+#EXTINF:-1,Japon_06
+http://199.195.195.108:32006
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,PASSIE XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Super One
+http://best-shqip-iptv.blogdns.com/stream/hustlertv/ferid-012-2015/2003palas1502
+#EXTINF:-1,TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***XXX-VOD +18***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,5 Vezes Mais Sexo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena1.mp4
+#EXTINF:-1,5 Vezes Mais Sexo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena2.mp4
+#EXTINF:-1,5 Vezes Mais Sexo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena3.mp4
+#EXTINF:-1,5 Vezes Mais Sexo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena4.mp4
+#EXTINF:-1,5 Vezes Mais Sexo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena5.mp4
+#EXTINF:-1,A Gata Endoidou - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena1.mp4
+#EXTINF:-1,A Gata Endoidou - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena2.mp4
+#EXTINF:-1,A Gata Endoidou - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena3.mp4
+#EXTINF:-1,A Gata Endoidou - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena4.mp4
+#EXTINF:-1,A Gata Endoidou - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena5.mp4
+#EXTINF:-1,Academia das Maravilhas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena1.mp4
+#EXTINF:-1,Academia das Maravilhas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena2.mp4
+#EXTINF:-1,Academia das Maravilhas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena3.mp4
+#EXTINF:-1,Academia das Maravilhas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena4.mp4
+#EXTINF:-1,Academia das Maravilhas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena5.mp4
+#EXTINF:-1,Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena1.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena2.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena3.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena4.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena5.mp4
+#EXTINF:-1,Agora eu Fiquei Doce - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena6.mp4
+#EXTINF:-1,AKRF2
+http://v8.paradisehill.tv/video/1612130835_253.mp4
+#EXTINF:-1,Amigas da Minha Irmã - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena1.mp4
+#EXTINF:-1,Amigas da Minha Irmã - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena2.mp4
+#EXTINF:-1,Amigas da Minha Irmã - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena3.mp4
+#EXTINF:-1,Amigas da Minha Irmã - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena4.mp4
+#EXTINF:-1,asian-twats-and-black-cocks-bonus-scene1
+http://v8.paradisehill.tv/video/2002141414_22.mp4
+#EXTINF:-1,asian-twats-and-black-cocks-scene2
+http://v8.paradisehill.tv/video/2002141414_18.mp4
+#EXTINF:-1,asian-twats-and-black-cocks-scene5
+http://v8.paradisehill.tv/video/2002141414_21.mp4
+#EXTINF:-1,Assim Você me Mata - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena1.mp4
+#EXTINF:-1,Assim Você me Mata - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena2.mp4
+#EXTINF:-1,Assim Você me Mata - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena3.mp4
+#EXTINF:-1,Assim Você me Mata - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena4.mp4
+#EXTINF:-1,AVAF
+http://v8.paradisehill.tv/video/1612130835_261.mp4
+#EXTINF:-1,Babando de Tesão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena1.mp4
+#EXTINF:-1,Babando de Tesão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena2.mp4
+#EXTINF:-1,Babando de Tesão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena3.mp4
+#EXTINF:-1,Babando de Tesão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena4.mp4
+#EXTINF:-1,Bad Hamburg  20.10.2011 1
+http://v8.paradisehill.tv/video/260614_0306_110__part_1.mp4
+#EXTINF:-1,Baseball Orgy3
+http://v8.paradisehill.tv/video/260614_0306_30__part_1.mp4
+#EXTINF:-1,Baseball Orgy3
+http://v8.paradisehill.tv/video/260614_0306_30__part_3.mp4
+#EXTINF:-1,Best New Star - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena1.mp4
+#EXTINF:-1,Best New Star - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena2.mp4
+#EXTINF:-1,Best New Star - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena3.mp4
+#EXTINF:-1,Best New Star - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena4.mp4
+#EXTINF:-1,Best New Star - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena5.mp4
+#EXTINF:-1,Bikini gelb Hamburg  20.10.2011 1
+http://v8.paradisehill.tv/video/260614_0306_36__part_1.mp4
+#EXTINF:-1,Blowjob-Footjob Hamburg  20.10.2011 1
+http://v8.paradisehill.tv/video/260614_0306_168__part_1.mp4
+#EXTINF:-1,Cara de Santa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena1.mp4
+#EXTINF:-1,Cara de Santa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena2.mp4
+#EXTINF:-1,Cara de Santa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena3.mp4
+#EXTINF:-1,Cara de Santa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena4.mp4
+#EXTINF:-1,Carinho das Índias - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena1.mp4
+#EXTINF:-1,Carinho das Índias - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena2.mp4
+#EXTINF:-1,Carinho das Índias - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena3.mp4
+#EXTINF:-1,Carinho das Índias - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena4.mp4
+#EXTINF:-1,Colegiais 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena1.mp4
+#EXTINF:-1,Colegiais 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena2.mp4
+#EXTINF:-1,Colegiais 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena3.mp4
+#EXTINF:-1,Colegiais 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena4.mp4
+#EXTINF:-1,Colegiais 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena5.mp4
+#EXTINF:-1,DDRF
+http://v8.paradisehill.tv/video/1612130835_279.mp4
+#EXTINF:-1,Deep Inside Barbii (1989)
+http://v8.paradisehill.tv/video/1612130835_163.mp4
+#EXTINF:-1,Delicias Molhadas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena1.mp4
+#EXTINF:-1,Delicias Molhadas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena2.mp4
+#EXTINF:-1,Delicias Molhadas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena3.mp4
+#EXTINF:-1,Delicias Molhadas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena4.mp4
+#EXTINF:-1,Delicias Molhadas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena5.mp4
+#EXTINF:-1,Derretendo de Tesão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena1.mp4
+#EXTINF:-1,Derretendo de Tesão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena2.mp4
+#EXTINF:-1,Derretendo de Tesão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena3.mp4
+#EXTINF:-1,Derretendo de Tesão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena4.mp4
+#EXTINF:-1,Derretendo de Tesão - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena5.mp4
+#EXTINF:-1,Derretendo de Tesão 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena1.mp4
+#EXTINF:-1,Derretendo de Tesão 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena2.mp4
+#EXTINF:-1,Derretendo de Tesão 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena3.mp4
+#EXTINF:-1,Derretendo de Tesão 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena4.mp4
+#EXTINF:-1,Derretendo de Tesão 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena5.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_258__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_278__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_268__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_249__part_3.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_249__part_1.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_268__part_4.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_63__part_1.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_50__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_50__part_4.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_70__part_1.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_258__part_4.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_18__part_4.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_18__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_20__part_3.mp4
+#EXTINF:-1,Downloaded from RARBG.COM
+http://v8.paradisehill.tv/video/260614_0306_20__part_1.mp4
+#EXTINF:-1,Downloaded from RARBG.COM 3
+http://v8.paradisehill.tv/video/260614_0306_63__part_3.mp4
+#EXTINF:-1,Downloaded from RARBG.COM2
+http://v8.paradisehill.tv/video/260614_0306_62__part_2.mp4
+#EXTINF:-1,Downloaded from RARBG.COM3
+http://v8.paradisehill.tv/video/260614_0306_70__part_3.mp4
+#EXTINF:-1,'Dreamgirls - Wild Party Girls #46'
+http://v8.paradisehill.tv/video/wild_party_girls_46.mp4
+#EXTINF:-1,DVD_VOLUME.Title6.DVDRip
+http://v8.paradisehill.tv/video/1612130835_247.mp4
+#EXTINF:-1,DVD_VOLUME.Title7.DVDRip
+http://v8.paradisehill.tv/video/1612130835_309.mp4
+#EXTINF:-1,Entre Bolas e Tacos - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena1.mp4
+#EXTINF:-1,Entre Bolas e Tacos - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena2.mp4
+#EXTINF:-1,Entre Bolas e Tacos - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena3.mp4
+#EXTINF:-1,Entre Bolas e Tacos - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena4.mp4
+#EXTINF:-1,Entre Bolas e Tacos - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena5.mp4
+#EXTINF:-1,Eu Quero Tchu Eu Quero Dar - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena1.mp4
+#EXTINF:-1,Eu Quero Tchu Eu Quero Dar - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena2.mp4
+#EXTINF:-1,Eu Quero Tchu Eu Quero Dar - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena3.mp4
+#EXTINF:-1,Eu Quero Tchu Eu Quero Dar - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena4.mp4
+#EXTINF:-1,Foot Seduction 6
+http://v8.paradisehill.tv/video/1612130835_205.mp4
+#EXTINF:-1,FOOTJOB 5.Title2.DVDRip
+http://v8.paradisehill.tv/video/1612130835_495.mp4
+#EXTINF:-1,Garota Exportação - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena1.mp4
+#EXTINF:-1,Garota Exportação - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena2.mp4
+#EXTINF:-1,Garota Exportação - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena3.mp4
+#EXTINF:-1,Garota Exportação - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena4.mp4
+#EXTINF:-1,Garotas da Máfia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena1.mp4
+#EXTINF:-1,Garotas da Máfia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena2.mp4
+#EXTINF:-1,Garotas da Máfia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena3.mp4
+#EXTINF:-1,Garotas da Máfia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena4.mp4
+#EXTINF:-1,Garotas da Máfia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena5.mp4
+#EXTINF:-1,Gostosas Depois dos 40 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena1.mp4
+#EXTINF:-1,Gostosas Depois dos 40 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena2.mp4
+#EXTINF:-1,Gostosas Depois dos 40 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena3.mp4
+#EXTINF:-1,istórias de Verão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena1.mp4
+#EXTINF:-1,istórias de Verão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena2.mp4
+#EXTINF:-1,istórias de Verão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena3.mp4
+#EXTINF:-1,istórias de Verão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena4.mp4
+#EXTINF:-1,istórias de Verão - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena5.mp4
+#EXTINF:-1,istórias de Verão - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena6.mp4
+#EXTINF:-1,istórias de Verão - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena7.mp4
+#EXTINF:-1,Louquinha - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena1.mp4
+#EXTINF:-1,Louquinha - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena2.mp4
+#EXTINF:-1,Louquinha - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena3.mp4
+#EXTINF:-1,Louquinha - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena4.mp4
+#EXTINF:-1,Louquinha - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena5.mp4
+#EXTINF:-1,Maior que Melancia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena1.mp4
+#EXTINF:-1,Maior que Melancia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena2.mp4
+#EXTINF:-1,Maior que Melancia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena3.mp4
+#EXTINF:-1,Maior que Melancia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena4.mp4
+#EXTINF:-1,Maior que Melancia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena5.mp4
+#EXTINF:-1,Maior que Melancia 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena1.mp4
+#EXTINF:-1,Maior que Melancia 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena2.mp4
+#EXTINF:-1,Maior que Melancia 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena3.mp4
+#EXTINF:-1,Meninas Más - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena1.mp4
+#EXTINF:-1,Meninas Más - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena2.mp4
+#EXTINF:-1,Meninas Más - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena3.mp4
+#EXTINF:-1,Meninas Más - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena4.mp4
+#EXTINF:-1,Meninas Más - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena5.mp4
+#EXTINF:-1,miso-ghetto-scene2
+http://v8.paradisehill.tv/video/2002141414_75.mp4
+#EXTINF:-1,miso-ghetto-scene4
+http://v8.paradisehill.tv/video/2002141414_77.mp4
+#EXTINF:-1,Molhadas de Prazer - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena1.mp4
+#EXTINF:-1,Molhadas de Prazer - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena2.mp4
+#EXTINF:-1,Molhadas de Prazer - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena3.mp4
+#EXTINF:-1,Molhadas de Prazer - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena4.mp4
+#EXTINF:-1,Molhadas de Prazer - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena5.mp4
+#EXTINF:-1,My Roommate's a Lesbian #5
+http://v9.paradisehill.tv/video/241014-1848-29_part2.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena1.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena2.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena3.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena4.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena5.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena6.mp4
+#EXTINF:-1,Não Tem Cara de Atriz Pornô - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena7.mp4
+#EXTINF:-1,Nena, Das Geile Biest Auf Der Insel Der Verdammten Teil 5 (1985)
+http://v8.paradisehill.tv/video/1612130835_435.mp4
+#EXTINF:-1,Nena, Das Geile Biest Von Nebenan Teil 1 (ensest) (1985)
+http://v8.paradisehill.tv/video/1612130835_431.mp4
+#EXTINF:-1,Nena, Das Geile Biest Von Nebenan Teil 3 (ensest) (1985)
+http://v8.paradisehill.tv/video/1612130835_433.mp4
+#EXTINF:-1,Nerdy Girls - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena1.mp4
+#EXTINF:-1,Nerdy Girls - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena2.mp4
+#EXTINF:-1,Nerdy Girls - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena3.mp4
+#EXTINF:-1,Nerdy Girls - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena4.mp4
+#EXTINF:-1,Nerdy Girls - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena5.mp4
+#EXTINF:-1,Nikon D5100 PBD Outdoor 1 2.10.2011
+http://v8.paradisehill.tv/video/260614_0306_66__part_1.mp4
+#EXTINF:-1,Ninfa da Copa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena1.mp4
+#EXTINF:-1,Ninfa da Copa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena2.mp4
+#EXTINF:-1,Ninfa da Copa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena3.mp4
+#EXTINF:-1,Ninfa da Copa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena4.mp4
+#EXTINF:-1,O Pecado sem Perdão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena1.mp4
+#EXTINF:-1,O Pecado sem Perdão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena2.mp4
+#EXTINF:-1,O Pecado sem Perdão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena3.mp4
+#EXTINF:-1,oje Eu Tô no Veneno - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena1.mp4
+#EXTINF:-1,oje Eu Tô no Veneno - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena2.mp4
+#EXTINF:-1,oje Eu Tô no Veneno - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena3.mp4
+#EXTINF:-1,oje Eu Tô no Veneno - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena4.mp4
+#EXTINF:-1,omem não Entra - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena1.mp4
+#EXTINF:-1,omem não Entra - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena2.mp4
+#EXTINF:-1,omem não Entra - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena3.mp4
+#EXTINF:-1,omem não Entra - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena4.mp4
+#EXTINF:-1,omem não Entra - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena5.mp4
+#EXTINF:-1,Orgy Sex Parties #10, Scene 1
+http://v8.paradisehill.tv/video/260614_0306_88__part_2.mp4
+#EXTINF:-1,Orgy Sex Parties #10, Scene 2
+http://v8.paradisehill.tv/video/260614_0306_89__part_2.mp4
+#EXTINF:-1,Orgy.Sex.Parties.3.XXX.DVDRip.XviD-FLESHLiGHT - CD1
+http://v8.paradisehill.tv/video/260614_0306_76__part_3.mp4
+#EXTINF:-1,Orgy.Sex.Parties.3.XXX.DVDRip.XviD-FLESHLiGHT - CD1
+http://v8.paradisehill.tv/video/260614_0306_76__part_1.mp4
+#EXTINF:-1,Orgy.Sex.Parties.3.XXX.DVDRip.XviD-FLESHLiGHT - CD2
+http://v8.paradisehill.tv/video/260614_0306_77__part_2.mp4
+#EXTINF:-1,'P.O.V. Punx #5'
+http://v8.paradisehill.tv/video/260614_0306_200__part_3.mp4
+#EXTINF:-1,P.O.V. Punx 4
+http://v8.paradisehill.tv/video/260614_0306_199__part_1.mp4
+#EXTINF:-1,P.O.V. Punx 4
+http://v8.paradisehill.tv/video/260614_0306_199__part_3.mp4
+#EXTINF:-1,Paixão Tropical - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena1.mp4
+#EXTINF:-1,Paixão Tropical - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena2.mp4
+#EXTINF:-1,Paixão Tropical - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena3.mp4
+#EXTINF:-1,Paixão Tropical - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena4.mp4
+#EXTINF:-1,Paixão Tropical - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena5.mp4
+#EXTINF:-1,Paixão Tropical - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena6.mp4
+#EXTINF:-1,Paixão Tropical - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena7.mp4
+#EXTINF:-1,Paraíso das Bundas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena1.mp4
+#EXTINF:-1,Paraíso das Bundas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena2.mp4
+#EXTINF:-1,Paraíso das Bundas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena3.mp4
+#EXTINF:-1,Paraíso das Bundas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena4.mp4
+#EXTINF:-1,PBD 1 Outdoor 20.9.2011
+http://v8.paradisehill.tv/video/260614_0306_166__part_1.mp4
+#EXTINF:-1,PBD 2 Outdoor + Dildo  25.9.2011
+http://v8.paradisehill.tv/video/260614_0306_104__part_1.mp4
+#EXTINF:-1,PBD Blowjob+Brille 20.9.2011
+http://v8.paradisehill.tv/video/260614_0306_118__part_1.mp4
+#EXTINF:-1,PBD Footlick +Footjob+Blowjob 28.2.2012
+http://v8.paradisehill.tv/video/260614_0306_134__part_2.mp4
+#EXTINF:-1,PBD Outdoor 2 2.10.2011
+http://v8.paradisehill.tv/video/260614_0306_158__part_1.mp4
+#EXTINF:-1,PBD Outdoor 3 15.7.2011
+http://v8.paradisehill.tv/video/260614_0306_150__part_1.mp4
+#EXTINF:-1,PBD Outdoor 3 2.10.2011
+http://v8.paradisehill.tv/video/260614_0306_170__part_1.mp4
+#EXTINF:-1,PBD Outdoor 5 9.7.2011
+http://v8.paradisehill.tv/video/260614_0306_152__part_1.mp4
+#EXTINF:-1,PBD+Michaela   REEL Pumpdildo 13.4.2011
+http://v8.paradisehill.tv/video/260614_0306_139__part_1.mp4
+#EXTINF:-1,PBD+Michaela  ANAL  34 x 11 cm X-MAN All Black  Dildo 11.4.2011
+http://v8.paradisehill.tv/video/260614_0306_141__part_1.mp4
+#EXTINF:-1,PBD+Michaela  ANAL  Milk  18.6.2011
+http://v8.paradisehill.tv/video/260614_0306_143__part_1.mp4
+#EXTINF:-1,PBD+Michaela 29x5,5 Dildo Gonzales flesh  26.5.2011
+http://v8.paradisehill.tv/video/260614_0306_145__part_1.mp4
+#EXTINF:-1,PBD+Michaela boobs fill up 9.4.2011part2
+http://v8.paradisehill.tv/video/260614_0306_162__part_1.mp4
+#EXTINF:-1,Pecado Final - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena1.mp4
+#EXTINF:-1,Pecado Final - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena2.mp4
+#EXTINF:-1,Pecado Final - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena3.mp4
+#EXTINF:-1,Pegando as Tops - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena1.mp4
+#EXTINF:-1,Pegando as Tops - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena2.mp4
+#EXTINF:-1,Pegando as Tops - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena3.mp4
+#EXTINF:-1,Pegando as Tops - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena4.mp4
+#EXTINF:-1,Performers of The Year - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena1.mp4
+#EXTINF:-1,Performers of The Year - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena2.mp4
+#EXTINF:-1,Performers of The Year - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena3.mp4
+#EXTINF:-1,Performers of The Year - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena4.mp4
+#EXTINF:-1,Performers of The Year - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena5.mp4
+#EXTINF:-1,Performers of The Year - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena6.mp4
+#EXTINF:-1,Poderosas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena1.mp4
+#EXTINF:-1,Poderosas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena2.mp4
+#EXTINF:-1,Poderosas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena3.mp4
+#EXTINF:-1,Poderosas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena4.mp4
+#EXTINF:-1,Private - African Dreams
+http://v8.paradisehill.tv/video/1612130835_579.mp4
+#EXTINF:-1,PS19a.Title3.DVDRip
+http://v8.paradisehill.tv/video/1612130835_457.mp4
+#EXTINF:-1,RARBG.COM - Lisa.Anns.School.Of.Milf.2.XXX.DVDRip.x264-KuKaS
+http://v9.paradisehill.tv/video/241014-1848-16_part2.mp4
+#EXTINF:-1,Redondinho de 4 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena1.mp4
+#EXTINF:-1,Redondinho de 4 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena2.mp4
+#EXTINF:-1,Redondinho de 4 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena3.mp4
+#EXTINF:-1,Redondinho de 4 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena4.mp4
+#EXTINF:-1,Redondinho de 4 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena5.mp4
+#EXTINF:-1,Salada de Frutas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena1.mp4
+#EXTINF:-1,Salada de Frutas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena2.mp4
+#EXTINF:-1,Salada de Frutas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena3.mp4
+#EXTINF:-1,Salada de Frutas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena4.mp4
+#EXTINF:-1,Salada de Frutas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena5.mp4
+#EXTINF:-1,Salada de Frutas - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena6.mp4
+#EXTINF:-1,Sedução - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena1.mp4
+#EXTINF:-1,Sedução - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena2.mp4
+#EXTINF:-1,Sedução - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena3.mp4
+#EXTINF:-1,Sedução - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena4.mp4
+#EXTINF:-1,Sedução - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena5.mp4
+#EXTINF:-1,Sem Conversa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena1.mp4
+#EXTINF:-1,Sem Conversa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena2.mp4
+#EXTINF:-1,Sem Conversa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena3.mp4
+#EXTINF:-1,Sem Conversa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena4.mp4
+#EXTINF:-1,Sexo Interativo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena1.mp4
+#EXTINF:-1,Sexo Interativo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena2.mp4
+#EXTINF:-1,Sexo Interativo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena3.mp4
+#EXTINF:-1,Sexo Interativo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena4.mp4
+#EXTINF:-1,Sexo Interativo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena5.mp4
+#EXTINF:-1,Sexo Interativo - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena6.mp4
+#EXTINF:-1,Sexo Interativo - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena7.mp4
+#EXTINF:-1,Sexo Interativo - Cena 8
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena8.mp4
+#EXTINF:-1,Sexo Interativo - Cena 9
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena9.mp4
+#EXTINF:-1,Sexo Sol e Areia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena1.mp4
+#EXTINF:-1,Sexo Sol e Areia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena2.mp4
+#EXTINF:-1,Sexo Sol e Areia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena3.mp4
+#EXTINF:-1,Sexo Sol e Areia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena4.mp4
+#EXTINF:-1,Sexo Sol e Areia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena5.mp4
+#EXTINF:-1,Show de Bundas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena1.mp4
+#EXTINF:-1,Show de Bundas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena2.mp4
+#EXTINF:-1,Show de Bundas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena3.mp4
+#EXTINF:-1,Show de Bundas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena4.mp4
+#EXTINF:-1,Show de Bundas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena5.mp4
+#EXTINF:-1,Show de Bundas 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena1.mp4
+#EXTINF:-1,Show de Bundas 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena2.mp4
+#EXTINF:-1,Show de Bundas 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena3.mp4
+#EXTINF:-1,Show de Bundas 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena4.mp4
+#EXTINF:-1,Show de Bundas 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena5.mp4
+#EXTINF:-1,Show de Bundas 3 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena1.mp4
+#EXTINF:-1,Show de Bundas 3 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena2.mp4
+#EXTINF:-1,Show de Bundas 3 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena3.mp4
+#EXTINF:-1,Show de Bundas 3 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena4.mp4
+#EXTINF:-1,Show de Bundas 4 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena1.mp4
+#EXTINF:-1,Show de Bundas 4 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena2.mp4
+#EXTINF:-1,Show de Bundas 4 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena3.mp4
+#EXTINF:-1,Show de Bundas 4 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena4.mp4
+#EXTINF:-1,Show de Bundas 5 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena1.mp4
+#EXTINF:-1,Show de Bundas 5 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena2.mp4
+#EXTINF:-1,Show de Bundas 5 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena3.mp4
+#EXTINF:-1,Show de Bundas 5 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena4.mp4
+#EXTINF:-1,Sogrão Caprichou - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena1.mp4
+#EXTINF:-1,Sogrão Caprichou - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena2.mp4
+#EXTINF:-1,Sogrão Caprichou - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena3.mp4
+#EXTINF:-1,Sogrão Caprichou - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena4.mp4
+#EXTINF:-1,Sogrão Caprichou - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena5.mp4
+#EXTINF:-1,Stars - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena2.mp4
+#EXTINF:-1,Stars - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena3.mp4
+#EXTINF:-1,Stars - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena4.mp4
+#EXTINF:-1,Stars - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena5.mp4
+#EXTINF:-1,Taras de um Fotógrafo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena1.mp4
+#EXTINF:-1,Taras de um Fotógrafo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena2.mp4
+#EXTINF:-1,Taras de um Fotógrafo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena3.mp4
+#EXTINF:-1,Taras de um Fotógrafo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena4.mp4
+#EXTINF:-1,Tô Facinho - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena1.mp4
+#EXTINF:-1,Tô Facinho - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena2.mp4
+#EXTINF:-1,Tô Facinho - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena3.mp4
+#EXTINF:-1,Tô Facinho - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena4.mp4
+#EXTINF:-1,Tô Facinho - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena5.mp4
+#EXTINF:-1,Todas a Bordo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena1.mp4
+#EXTINF:-1,Todas a Bordo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena2.mp4
+#EXTINF:-1,Todas a Bordo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena3.mp4
+#EXTINF:-1,Todas a Bordo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena4.mp4
+#EXTINF:-1,Todas a Bordo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena5.mp4
+#EXTINF:-1,Todas a Bordo - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena6.mp4
+#EXTINF:-1,Tomando no Cú - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena1.mp4
+#EXTINF:-1,Tomando no Cú - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena2.mp4
+#EXTINF:-1,Tomando no Cú - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena3.mp4
+#EXTINF:-1,Tomando no Cú - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena4.mp4
+#EXTINF:-1,Transando Gostoso - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena1.mp4
+#EXTINF:-1,Transando Gostoso - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena2.mp4
+#EXTINF:-1,Transando Gostoso - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena3.mp4
+#EXTINF:-1,Transando Gostoso - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena4.mp4
+#EXTINF:-1,Turbinadas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena1.mp4
+#EXTINF:-1,Turbinadas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena2.mp4
+#EXTINF:-1,Turbinadas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena3.mp4
+#EXTINF:-1,Turbinadas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena4.mp4
+#EXTINF:-1,Turbinadas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena5.mp4
+#EXTINF:-1,Ultrasuruba - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena1.mp4
+#EXTINF:-1,Ultrasuruba - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena2.mp4
+#EXTINF:-1,Ultrasuruba - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena3.mp4
+#EXTINF:-1,Ultrasuruba - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_10__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_10__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_100__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_100__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_101__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_101__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_102__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_102__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_106__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_106__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_108__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_108__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_11__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_11__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_112__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_112__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_114__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_114__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_116__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_116__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_12__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_12__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_120__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_120__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_122__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_122__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_124__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_124__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_125__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_125__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_126__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_126__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_127__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_127__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_129__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_129__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_13__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_13__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_131__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_131__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_132__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_132__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_133__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_133__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_135__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_135__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_137__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_137__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_14__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_14__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_14__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_14__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_147__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_147__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_148__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_148__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_15__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_15__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_154__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_154__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_155__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_155__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_157__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_157__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_159__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_159__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_16__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_16__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_16__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_16__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_160__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_160__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_164__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_164__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_17__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_17__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_17__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_17__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_17__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_17__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_171__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_171__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_172__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_172__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_172__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_172__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_173__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_173__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_174__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_174__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_175__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_175__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_176__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_176__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_177__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_177__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_178__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_178__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_179__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_179__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_179__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_179__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_180__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_180__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_181__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_181__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_182__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_182__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_183__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_183__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_183__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_183__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_184__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_184__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_185__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_185__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_185__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_185__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_186__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_186__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_187__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_187__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_188__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_188__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_189__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_189__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_189__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_189__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_189__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_189__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_19__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_19__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_19__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_19__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_190__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_190__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_191__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_191__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_191__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_191__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_193__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_193__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_197__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_197__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_201__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_201__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_201__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_201__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_201__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_201__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_202__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_202__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_202__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_202__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_203__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_203__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_204__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_204__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_205__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_205__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_206__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_206__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_206__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_206__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_207__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_207__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_208__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_208__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_208__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_208__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_209__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_209__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_21__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_21__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_21__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_21__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_210__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_210__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_210__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_210__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_211__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_211__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_212__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_212__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_213__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_213__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_214__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_214__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_215__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_215__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_216__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_216__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_217__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_217__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_218__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_218__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_219__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_219__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_22__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_22__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_22__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_22__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_22__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_22__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_220__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_220__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_220__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_220__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_221__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_221__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_222__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_222__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_223__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_223__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_224__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_224__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_225__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_225__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_226__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_226__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_227__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_227__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_228__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_228__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_229__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_229__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_23__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_23__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_23__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_23__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_230__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_230__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_231__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_231__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_232__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_232__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_232__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_232__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_233__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_233__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_234__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_234__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_234__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_234__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_235__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_235__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_236__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_236__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_236__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_236__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_237__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_237__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_237__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_237__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_238__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_238__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_239__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_239__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_24__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_24__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_240__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_240__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_241__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_241__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_241__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_241__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_242__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_242__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_242__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_242__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_242__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_242__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_243__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_243__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_244__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_244__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_244__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_244__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_244__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_244__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_245__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_245__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_245__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_245__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_245__part_6.mp4
+http://v8.paradisehill.tv/video/260614_0306_245__part_6.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_246__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_246__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_246__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_246__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_247__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_247__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_248__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_248__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_248__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_248__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_250__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_250__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_250__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_250__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_250__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_250__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_251__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_251__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_251__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_251__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_252__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_252__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_252__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_252__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_253__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_253__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_253__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_253__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_254__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_254__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_254__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_254__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_255__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_255__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_255__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_255__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_256__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_256__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_256__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_256__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_256__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_256__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_257__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_257__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_257__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_257__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_259__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_259__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_259__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_259__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_26__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_26__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_260__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_260__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_260__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_260__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_261__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_261__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_262__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_262__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_263__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_263__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_264__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_264__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_264__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_264__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_266__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_266__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_266__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_266__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_266__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_266__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_267__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_267__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_267__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_267__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_270__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_270__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_272__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_272__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_274__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_274__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_276__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_276__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_276__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_276__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_277__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_277__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_277__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_277__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_279__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_279__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_279__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_279__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_28__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_28__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_28__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_28__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_29__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_29__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_29__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_29__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_31__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_31__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_32__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_32__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_33__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_33__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_34__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_34__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_37__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_37__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_39__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_39__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_40__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_40__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_41__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_41__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_42__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_42__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_43__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_43__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_44__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_44__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_45__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_45__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_46__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_46__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_47__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_47__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_48__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_48__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_48__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_48__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_49__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_49__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_49__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_49__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_49__part_5.mp4
+http://v8.paradisehill.tv/video/260614_0306_49__part_5.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_51__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_51__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_51__part_4.mp4
+http://v8.paradisehill.tv/video/260614_0306_51__part_4.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_51__part_6.mp4
+http://v8.paradisehill.tv/video/260614_0306_51__part_6.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_52__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_52__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_53__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_53__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_54__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_54__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_54__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_54__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_55__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_55__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_57__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_57__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_58__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_58__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_59__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_59__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_60__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_60__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_60__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_60__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_61__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_61__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_61__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_61__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_64__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_64__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_65__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_65__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_65__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_65__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_68__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_68__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_68__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_68__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_69__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_69__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_69__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_69__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_71__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_71__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_72__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_72__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_73__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_73__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_74__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_74__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_75__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_75__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_75__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_75__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_78__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_78__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_79__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_79__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_80__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_80__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_81__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_81__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_82__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_82__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_83__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_83__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_84__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_84__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_85__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_85__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_86__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_86__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_87__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_87__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_90__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_90__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_91__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_91__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_92__part_2.mp4
+http://v8.paradisehill.tv/video/260614_0306_92__part_2.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_93__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_93__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_94__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_94__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_94__part_3.mp4
+http://v8.paradisehill.tv/video/260614_0306_94__part_3.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_96__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_96__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_0306_98__part_1.mp4
+http://v8.paradisehill.tv/video/260614_0306_98__part_1.mp4
+#EXTINF:-1,v8.paradisehill.tv_101.mp4
+http://v8.paradisehill.tv/video/1612130835_101.mp4
+#EXTINF:-1,v8.paradisehill.tv_103.mp4
+http://v8.paradisehill.tv/video/1612130835_103.mp4
+#EXTINF:-1,v8.paradisehill.tv_105.mp4
+http://v8.paradisehill.tv/video/1612130835_105.mp4
+#EXTINF:-1,v8.paradisehill.tv_119.mp4
+http://v8.paradisehill.tv/video/1612130835_119.mp4
+#EXTINF:-1,v8.paradisehill.tv_121.mp4
+http://v8.paradisehill.tv/video/1612130835_121.mp4
+#EXTINF:-1,v8.paradisehill.tv_123.mp4
+http://v8.paradisehill.tv/video/1612130835_123.mp4
+#EXTINF:-1,v8.paradisehill.tv_125.mp4
+http://v8.paradisehill.tv/video/1612130835_125.mp4
+#EXTINF:-1,v8.paradisehill.tv_127.mp4
+http://v8.paradisehill.tv/video/1612130835_127.mp4
+#EXTINF:-1,v8.paradisehill.tv_129.mp4
+http://v8.paradisehill.tv/video/1612130835_129.mp4
+#EXTINF:-1,v8.paradisehill.tv_131.mp4
+http://v8.paradisehill.tv/video/1612130835_131.mp4
+#EXTINF:-1,v8.paradisehill.tv_133.mp4
+http://v8.paradisehill.tv/video/1612130835_133.mp4
+#EXTINF:-1,v8.paradisehill.tv_135.mp4
+http://v8.paradisehill.tv/video/1612130835_135.mp4
+#EXTINF:-1,v8.paradisehill.tv_137.mp4
+http://v8.paradisehill.tv/video/1612130835_137.mp4
+#EXTINF:-1,v8.paradisehill.tv_139.mp4
+http://v8.paradisehill.tv/video/1612130835_139.mp4
+#EXTINF:-1,v8.paradisehill.tv_141.mp4
+http://v8.paradisehill.tv/video/1612130835_141.mp4
+#EXTINF:-1,v8.paradisehill.tv_143.mp4
+http://v8.paradisehill.tv/video/1612130835_143.mp4
+#EXTINF:-1,v8.paradisehill.tv_145.mp4
+http://v8.paradisehill.tv/video/1612130835_145.mp4
+#EXTINF:-1,v8.paradisehill.tv_147.mp4
+http://v8.paradisehill.tv/video/1612130835_147.mp4
+#EXTINF:-1,v8.paradisehill.tv_149.mp4
+http://v8.paradisehill.tv/video/1612130835_149.mp4
+#EXTINF:-1,v8.paradisehill.tv_151.mp4
+http://v8.paradisehill.tv/video/1612130835_151.mp4
+#EXTINF:-1,v8.paradisehill.tv_153.mp4
+http://v8.paradisehill.tv/video/1612130835_153.mp4
+#EXTINF:-1,v8.paradisehill.tv_155.mp4
+http://v8.paradisehill.tv/video/1612130835_155.mp4
+#EXTINF:-1,v8.paradisehill.tv_157.mp4
+http://v8.paradisehill.tv/video/1612130835_157.mp4
+#EXTINF:-1,v8.paradisehill.tv_159.mp4
+http://v8.paradisehill.tv/video/1612130835_159.mp4
+#EXTINF:-1,v8.paradisehill.tv_161.mp4
+http://v8.paradisehill.tv/video/1612130835_161.mp4
+#EXTINF:-1,v8.paradisehill.tv_165.mp4
+http://v8.paradisehill.tv/video/1612130835_165.mp4
+#EXTINF:-1,v8.paradisehill.tv_171.mp4
+http://v8.paradisehill.tv/video/1612130835_171.mp4
+#EXTINF:-1,v8.paradisehill.tv_173.mp4
+http://v8.paradisehill.tv/video/1612130835_173.mp4
+#EXTINF:-1,v8.paradisehill.tv_175.mp4
+http://v8.paradisehill.tv/video/1612130835_175.mp4
+#EXTINF:-1,v8.paradisehill.tv_177.mp4
+http://v8.paradisehill.tv/video/1612130835_177.mp4
+#EXTINF:-1,v8.paradisehill.tv_179.mp4
+http://v8.paradisehill.tv/video/1612130835_179.mp4
+#EXTINF:-1,v8.paradisehill.tv_181.mp4
+http://v8.paradisehill.tv/video/1612130835_181.mp4
+#EXTINF:-1,v8.paradisehill.tv_187.mp4
+http://v8.paradisehill.tv/video/1612130835_187.mp4
+#EXTINF:-1,v8.paradisehill.tv_189.mp4
+http://v8.paradisehill.tv/video/1612130835_189.mp4
+#EXTINF:-1,v8.paradisehill.tv_191.mp4
+http://v8.paradisehill.tv/video/1612130835_191.mp4
+#EXTINF:-1,v8.paradisehill.tv_193.mp4
+http://v8.paradisehill.tv/video/1612130835_193.mp4
+#EXTINF:-1,v8.paradisehill.tv_195.mp4
+http://v8.paradisehill.tv/video/1612130835_195.mp4
+#EXTINF:-1,v8.paradisehill.tv_197.mp4
+http://v8.paradisehill.tv/video/1612130835_197.mp4
+#EXTINF:-1,v8.paradisehill.tv_199.mp4
+http://v8.paradisehill.tv/video/1612130835_199.mp4
+#EXTINF:-1,v8.paradisehill.tv_201.mp4
+http://v8.paradisehill.tv/video/1612130835_201.mp4
+#EXTINF:-1,v8.paradisehill.tv_203.mp4
+http://v8.paradisehill.tv/video/1612130835_203.mp4
+#EXTINF:-1,v8.paradisehill.tv_207.mp4
+http://v8.paradisehill.tv/video/1612130835_207.mp4
+#EXTINF:-1,v8.paradisehill.tv_209.mp4
+http://v8.paradisehill.tv/video/1612130835_209.mp4
+#EXTINF:-1,v8.paradisehill.tv_211.mp4
+http://v8.paradisehill.tv/video/1612130835_211.mp4
+#EXTINF:-1,v8.paradisehill.tv_213.mp4
+http://v8.paradisehill.tv/video/1612130835_213.mp4
+#EXTINF:-1,v8.paradisehill.tv_215.mp4
+http://v8.paradisehill.tv/video/1612130835_215.mp4
+#EXTINF:-1,v8.paradisehill.tv_217.mp4
+http://v8.paradisehill.tv/video/1612130835_217.mp4
+#EXTINF:-1,v8.paradisehill.tv_219.mp4
+http://v8.paradisehill.tv/video/1612130835_219.mp4
+#EXTINF:-1,v8.paradisehill.tv_221.mp4
+http://v8.paradisehill.tv/video/1612130835_221.mp4
+#EXTINF:-1,v8.paradisehill.tv_223.mp4
+http://v8.paradisehill.tv/video/1612130835_223.mp4
+#EXTINF:-1,v8.paradisehill.tv_225.mp4
+http://v8.paradisehill.tv/video/1612130835_225.mp4
+#EXTINF:-1,v8.paradisehill.tv_227.mp4
+http://v8.paradisehill.tv/video/1612130835_227.mp4
+#EXTINF:-1,v8.paradisehill.tv_229.mp4
+http://v8.paradisehill.tv/video/1612130835_229.mp4
+#EXTINF:-1,v8.paradisehill.tv_231.mp4
+http://v8.paradisehill.tv/video/1612130835_231.mp4
+#EXTINF:-1,v8.paradisehill.tv_235.mp4
+http://v8.paradisehill.tv/video/1612130835_235.mp4
+#EXTINF:-1,v8.paradisehill.tv_237.mp4
+http://v8.paradisehill.tv/video/1612130835_237.mp4
+#EXTINF:-1,v8.paradisehill.tv_239.mp4
+http://v8.paradisehill.tv/video/1612130835_239.mp4
+#EXTINF:-1,v8.paradisehill.tv_243.mp4
+http://v8.paradisehill.tv/video/1612130835_243.mp4
+#EXTINF:-1,v8.paradisehill.tv_245.mp4
+http://v8.paradisehill.tv/video/1612130835_245.mp4
+#EXTINF:-1,v8.paradisehill.tv_249.mp4
+http://v8.paradisehill.tv/video/1612130835_249.mp4
+#EXTINF:-1,v8.paradisehill.tv_251.mp4
+http://v8.paradisehill.tv/video/1612130835_251.mp4
+#EXTINF:-1,v8.paradisehill.tv_255.mp4
+http://v8.paradisehill.tv/video/1612130835_255.mp4
+#EXTINF:-1,v8.paradisehill.tv_257.mp4
+http://v8.paradisehill.tv/video/1612130835_257.mp4
+#EXTINF:-1,v8.paradisehill.tv_259.mp4
+http://v8.paradisehill.tv/video/1612130835_259.mp4
+#EXTINF:-1,v8.paradisehill.tv_263.mp4
+http://v8.paradisehill.tv/video/1612130835_263.mp4
+#EXTINF:-1,v8.paradisehill.tv_265.mp4
+http://v8.paradisehill.tv/video/1612130835_265.mp4
+#EXTINF:-1,v8.paradisehill.tv_267.mp4
+http://v8.paradisehill.tv/video/1612130835_267.mp4
+#EXTINF:-1,v8.paradisehill.tv_269.mp4
+http://v8.paradisehill.tv/video/1612130835_269.mp4
+#EXTINF:-1,v8.paradisehill.tv_271.mp4
+http://v8.paradisehill.tv/video/1612130835_271.mp4
+#EXTINF:-1,v8.paradisehill.tv_273.mp4
+http://v8.paradisehill.tv/video/1612130835_273.mp4
+#EXTINF:-1,v8.paradisehill.tv_275.mp4
+http://v8.paradisehill.tv/video/1612130835_275.mp4
+#EXTINF:-1,v8.paradisehill.tv_277.mp4
+http://v8.paradisehill.tv/video/1612130835_277.mp4
+#EXTINF:-1,v8.paradisehill.tv_281.mp4
+http://v8.paradisehill.tv/video/1612130835_281.mp4
+#EXTINF:-1,v8.paradisehill.tv_283.mp4
+http://v8.paradisehill.tv/video/1612130835_283.mp4
+#EXTINF:-1,v8.paradisehill.tv_285.mp4
+http://v8.paradisehill.tv/video/1612130835_285.mp4
+#EXTINF:-1,v8.paradisehill.tv_287.mp4
+http://v8.paradisehill.tv/video/1612130835_287.mp4
+#EXTINF:-1,v8.paradisehill.tv_289.mp4
+http://v8.paradisehill.tv/video/1612130835_289.mp4
+#EXTINF:-1,v8.paradisehill.tv_291.mp4
+http://v8.paradisehill.tv/video/1612130835_291.mp4
+#EXTINF:-1,v8.paradisehill.tv_293.mp4
+http://v8.paradisehill.tv/video/1612130835_293.mp4
+#EXTINF:-1,v8.paradisehill.tv_295.mp4
+http://v8.paradisehill.tv/video/1612130835_295.mp4
+#EXTINF:-1,v8.paradisehill.tv_299.mp4
+http://v8.paradisehill.tv/video/1612130835_299.mp4
+#EXTINF:-1,v8.paradisehill.tv_303.mp4
+http://v8.paradisehill.tv/video/1612130835_303.mp4
+#EXTINF:-1,v8.paradisehill.tv_305.mp4
+http://v8.paradisehill.tv/video/1612130835_305.mp4
+#EXTINF:-1,v8.paradisehill.tv_307.mp4
+http://v8.paradisehill.tv/video/1612130835_307.mp4
+#EXTINF:-1,v8.paradisehill.tv_311.mp4
+http://v8.paradisehill.tv/video/1612130835_311.mp4
+#EXTINF:-1,v8.paradisehill.tv_313.mp4
+http://v8.paradisehill.tv/video/1612130835_313.mp4
+#EXTINF:-1,v8.paradisehill.tv_315.mp4
+http://v8.paradisehill.tv/video/1612130835_315.mp4
+#EXTINF:-1,v8.paradisehill.tv_317.mp4
+http://v8.paradisehill.tv/video/1612130835_317.mp4
+#EXTINF:-1,v8.paradisehill.tv_321.mp4
+http://v8.paradisehill.tv/video/1612130835_321.mp4
+#EXTINF:-1,v8.paradisehill.tv_323.mp4
+http://v8.paradisehill.tv/video/1612130835_323.mp4
+#EXTINF:-1,v8.paradisehill.tv_325.mp4
+http://v8.paradisehill.tv/video/1612130835_325.mp4
+#EXTINF:-1,v8.paradisehill.tv_327.mp4
+http://v8.paradisehill.tv/video/1612130835_327.mp4
+#EXTINF:-1,v8.paradisehill.tv_329.mp4
+http://v8.paradisehill.tv/video/1612130835_329.mp4
+#EXTINF:-1,v8.paradisehill.tv_335.mp4
+http://v8.paradisehill.tv/video/1612130835_335.mp4
+#EXTINF:-1,v8.paradisehill.tv_337.mp4
+http://v8.paradisehill.tv/video/1612130835_337.mp4
+#EXTINF:-1,v8.paradisehill.tv_339.mp4
+http://v8.paradisehill.tv/video/1612130835_339.mp4
+#EXTINF:-1,v8.paradisehill.tv_341.mp4
+http://v8.paradisehill.tv/video/1612130835_341.mp4
+#EXTINF:-1,v8.paradisehill.tv_343.mp4
+http://v8.paradisehill.tv/video/1612130835_343.mp4
+#EXTINF:-1,v8.paradisehill.tv_345.mp4
+http://v8.paradisehill.tv/video/1612130835_345.mp4
+#EXTINF:-1,v8.paradisehill.tv_351.mp4
+http://v8.paradisehill.tv/video/1612130835_351.mp4
+#EXTINF:-1,v8.paradisehill.tv_353.mp4
+http://v8.paradisehill.tv/video/1612130835_353.mp4
+#EXTINF:-1,v8.paradisehill.tv_357.mp4
+http://v8.paradisehill.tv/video/1612130835_357.mp4
+#EXTINF:-1,v8.paradisehill.tv_359.mp4
+http://v8.paradisehill.tv/video/1612130835_359.mp4
+#EXTINF:-1,v8.paradisehill.tv_361.mp4
+http://v8.paradisehill.tv/video/1612130835_361.mp4
+#EXTINF:-1,v8.paradisehill.tv_363.mp4
+http://v8.paradisehill.tv/video/1612130835_363.mp4
+#EXTINF:-1,v8.paradisehill.tv_365.mp4
+http://v8.paradisehill.tv/video/1612130835_365.mp4
+#EXTINF:-1,v8.paradisehill.tv_367.mp4
+http://v8.paradisehill.tv/video/1612130835_367.mp4
+#EXTINF:-1,v8.paradisehill.tv_369.mp4
+http://v8.paradisehill.tv/video/1612130835_369.mp4
+#EXTINF:-1,v8.paradisehill.tv_371.mp4
+http://v8.paradisehill.tv/video/1612130835_371.mp4
+#EXTINF:-1,v8.paradisehill.tv_373.mp4
+http://v8.paradisehill.tv/video/1612130835_373.mp4
+#EXTINF:-1,v8.paradisehill.tv_375.mp4
+http://v8.paradisehill.tv/video/1612130835_375.mp4
+#EXTINF:-1,v8.paradisehill.tv_377.mp4
+http://v8.paradisehill.tv/video/1612130835_377.mp4
+#EXTINF:-1,v8.paradisehill.tv_379.mp4
+http://v8.paradisehill.tv/video/1612130835_379.mp4
+#EXTINF:-1,v8.paradisehill.tv_381.mp4
+http://v8.paradisehill.tv/video/1612130835_381.mp4
+#EXTINF:-1,v8.paradisehill.tv_383.mp4
+http://v8.paradisehill.tv/video/1612130835_383.mp4
+#EXTINF:-1,v8.paradisehill.tv_385.mp4
+http://v8.paradisehill.tv/video/1612130835_385.mp4
+#EXTINF:-1,v8.paradisehill.tv_387.mp4
+http://v8.paradisehill.tv/video/1612130835_387.mp4
+#EXTINF:-1,v8.paradisehill.tv_391.mp4
+http://v8.paradisehill.tv/video/1612130835_391.mp4
+#EXTINF:-1,v8.paradisehill.tv_393.mp4
+http://v8.paradisehill.tv/video/1612130835_393.mp4
+#EXTINF:-1,v8.paradisehill.tv_395.mp4
+http://v8.paradisehill.tv/video/1612130835_395.mp4
+#EXTINF:-1,v8.paradisehill.tv_397.mp4
+http://v8.paradisehill.tv/video/1612130835_397.mp4
+#EXTINF:-1,v8.paradisehill.tv_399.mp4
+http://v8.paradisehill.tv/video/1612130835_399.mp4
+#EXTINF:-1,v8.paradisehill.tv_401.mp4
+http://v8.paradisehill.tv/video/1612130835_401.mp4
+#EXTINF:-1,v8.paradisehill.tv_403.mp4
+http://v8.paradisehill.tv/video/1612130835_403.mp4
+#EXTINF:-1,v8.paradisehill.tv_409.mp4
+http://v8.paradisehill.tv/video/1612130835_409.mp4
+#EXTINF:-1,v8.paradisehill.tv_413.mp4
+http://v8.paradisehill.tv/video/1612130835_413.mp4
+#EXTINF:-1,v8.paradisehill.tv_415.mp4
+http://v8.paradisehill.tv/video/1612130835_415.mp4
+#EXTINF:-1,v8.paradisehill.tv_421.mp4
+http://v8.paradisehill.tv/video/1612130835_421.mp4
+#EXTINF:-1,v8.paradisehill.tv_423.mp4
+http://v8.paradisehill.tv/video/1612130835_423.mp4
+#EXTINF:-1,v8.paradisehill.tv_425.mp4
+http://v8.paradisehill.tv/video/1612130835_425.mp4
+#EXTINF:-1,v8.paradisehill.tv_429.mp4
+http://v8.paradisehill.tv/video/1612130835_429.mp4
+#EXTINF:-1,v8.paradisehill.tv_437.mp4
+http://v8.paradisehill.tv/video/1612130835_437.mp4
+#EXTINF:-1,v8.paradisehill.tv_439.mp4
+http://v8.paradisehill.tv/video/1612130835_439.mp4
+#EXTINF:-1,v8.paradisehill.tv_441.mp4
+http://v8.paradisehill.tv/video/1612130835_441.mp4
+#EXTINF:-1,v8.paradisehill.tv_443.mp4
+http://v8.paradisehill.tv/video/1612130835_443.mp4
+#EXTINF:-1,v8.paradisehill.tv_445.mp4
+http://v8.paradisehill.tv/video/1612130835_445.mp4
+#EXTINF:-1,v8.paradisehill.tv_449.mp4
+http://v8.paradisehill.tv/video/1612130835_449.mp4
+#EXTINF:-1,v8.paradisehill.tv_451.mp4
+http://v8.paradisehill.tv/video/1612130835_451.mp4
+#EXTINF:-1,v8.paradisehill.tv_453.mp4
+http://v8.paradisehill.tv/video/1612130835_453.mp4
+#EXTINF:-1,v8.paradisehill.tv_455.mp4
+http://v8.paradisehill.tv/video/1612130835_455.mp4
+#EXTINF:-1,v8.paradisehill.tv_459.mp4
+http://v8.paradisehill.tv/video/1612130835_459.mp4
+#EXTINF:-1,v8.paradisehill.tv_463.mp4
+http://v8.paradisehill.tv/video/1612130835_463.mp4
+#EXTINF:-1,v8.paradisehill.tv_465.mp4
+http://v8.paradisehill.tv/video/1612130835_465.mp4
+#EXTINF:-1,v8.paradisehill.tv_467.mp4
+http://v8.paradisehill.tv/video/1612130835_467.mp4
+#EXTINF:-1,v8.paradisehill.tv_469.mp4
+http://v8.paradisehill.tv/video/1612130835_469.mp4
+#EXTINF:-1,v8.paradisehill.tv_471.mp4
+http://v8.paradisehill.tv/video/1612130835_471.mp4
+#EXTINF:-1,v8.paradisehill.tv_473.mp4
+http://v8.paradisehill.tv/video/1612130835_473.mp4
+#EXTINF:-1,v8.paradisehill.tv_485.mp4
+http://v8.paradisehill.tv/video/1612130835_485.mp4
+#EXTINF:-1,v8.paradisehill.tv_487.mp4
+http://v8.paradisehill.tv/video/1612130835_487.mp4
+#EXTINF:-1,v8.paradisehill.tv_489.mp4
+http://v8.paradisehill.tv/video/1612130835_489.mp4
+#EXTINF:-1,v8.paradisehill.tv_491.mp4
+http://v8.paradisehill.tv/video/1612130835_491.mp4
+#EXTINF:-1,v8.paradisehill.tv_493.mp4
+http://v8.paradisehill.tv/video/1612130835_493.mp4
+#EXTINF:-1,v8.paradisehill.tv_497.mp4
+http://v8.paradisehill.tv/video/1612130835_497.mp4
+#EXTINF:-1,v8.paradisehill.tv_499.mp4
+http://v8.paradisehill.tv/video/1612130835_499.mp4
+#EXTINF:-1,v8.paradisehill.tv_501.mp4
+http://v8.paradisehill.tv/video/1612130835_501.mp4
+#EXTINF:-1,v8.paradisehill.tv_503.mp4
+http://v8.paradisehill.tv/video/1612130835_503.mp4
+#EXTINF:-1,v8.paradisehill.tv_505.mp4
+http://v8.paradisehill.tv/video/1612130835_505.mp4
+#EXTINF:-1,v8.paradisehill.tv_507.mp4
+http://v8.paradisehill.tv/video/1612130835_507.mp4
+#EXTINF:-1,v8.paradisehill.tv_509.mp4
+http://v8.paradisehill.tv/video/1612130835_509.mp4
+#EXTINF:-1,v8.paradisehill.tv_511.mp4
+http://v8.paradisehill.tv/video/1612130835_511.mp4
+#EXTINF:-1,v8.paradisehill.tv_513.mp4
+http://v8.paradisehill.tv/video/1612130835_513.mp4
+#EXTINF:-1,v8.paradisehill.tv_515.mp4
+http://v8.paradisehill.tv/video/1612130835_515.mp4
+#EXTINF:-1,v8.paradisehill.tv_519.mp4
+http://v8.paradisehill.tv/video/1612130835_519.mp4
+#EXTINF:-1,v8.paradisehill.tv_521.mp4
+http://v8.paradisehill.tv/video/1612130835_521.mp4
+#EXTINF:-1,v8.paradisehill.tv_523.mp4
+http://v8.paradisehill.tv/video/1612130835_523.mp4
+#EXTINF:-1,v8.paradisehill.tv_525.mp4
+http://v8.paradisehill.tv/video/1612130835_525.mp4
+#EXTINF:-1,v8.paradisehill.tv_527.mp4
+http://v8.paradisehill.tv/video/1612130835_527.mp4
+#EXTINF:-1,v8.paradisehill.tv_529.mp4
+http://v8.paradisehill.tv/video/1612130835_529.mp4
+#EXTINF:-1,v8.paradisehill.tv_531.mp4
+http://v8.paradisehill.tv/video/1612130835_531.mp4
+#EXTINF:-1,v8.paradisehill.tv_534.mp4
+http://v8.paradisehill.tv/video/1612130835_534.mp4
+#EXTINF:-1,v8.paradisehill.tv_536.mp4
+http://v8.paradisehill.tv/video/1612130835_536.mp4
+#EXTINF:-1,v8.paradisehill.tv_538.mp4
+http://v8.paradisehill.tv/video/1612130835_538.mp4
+#EXTINF:-1,v8.paradisehill.tv_540.mp4
+http://v8.paradisehill.tv/video/1612130835_540.mp4
+#EXTINF:-1,v8.paradisehill.tv_542.mp4
+http://v8.paradisehill.tv/video/1612130835_542.mp4
+#EXTINF:-1,v8.paradisehill.tv_544.mp4
+http://v8.paradisehill.tv/video/1612130835_544.mp4
+#EXTINF:-1,v8.paradisehill.tv_546.mp4
+http://v8.paradisehill.tv/video/1612130835_546.mp4
+#EXTINF:-1,v8.paradisehill.tv_548.mp4
+http://v8.paradisehill.tv/video/1612130835_548.mp4
+#EXTINF:-1,v8.paradisehill.tv_550.mp4
+http://v8.paradisehill.tv/video/1612130835_550.mp4
+#EXTINF:-1,v8.paradisehill.tv_552.mp4
+http://v8.paradisehill.tv/video/1612130835_552.mp4
+#EXTINF:-1,v8.paradisehill.tv_554.mp4
+http://v8.paradisehill.tv/video/1612130835_554.mp4
+#EXTINF:-1,v8.paradisehill.tv_556.mp4
+http://v8.paradisehill.tv/video/1612130835_556.mp4
+#EXTINF:-1,v8.paradisehill.tv_574.mp4
+http://v8.paradisehill.tv/video/1612130835_574.mp4
+#EXTINF:-1,v8.paradisehill.tv_591.mp4
+http://v8.paradisehill.tv/video/1612130835_591.mp4
+#EXTINF:-1,v8.paradisehill.tv_595.mp4
+http://v8.paradisehill.tv/video/1612130835_595.mp4
+#EXTINF:-1,v8.paradisehill.tv_599.mp4
+http://v8.paradisehill.tv/video/1612130835_599.mp4
+#EXTINF:-1,v8.paradisehill.tv_605.mp4
+http://v8.paradisehill.tv/video/1612130835_605.mp4
+#EXTINF:-1,v8.paradisehill.tv_611.mp4
+http://v8.paradisehill.tv/video/1612130835_611.mp4
+#EXTINF:-1,v8.paradisehill.tv_627.mp4
+http://v8.paradisehill.tv/video/1612130835_627.mp4
+#EXTINF:-1,v8.paradisehill.tv_647.mp4
+http://v8.paradisehill.tv/video/1612130835_647.mp4
+#EXTINF:-1,v8.paradisehill.tv_649.mp4
+http://v8.paradisehill.tv/video/1612130835_649.mp4
+#EXTINF:-1,v8.paradisehill.tv_651.mp4
+http://v8.paradisehill.tv/video/1612130835_651.mp4
+#EXTINF:-1,v8.paradisehill.tv_658.mp4
+http://v8.paradisehill.tv/video/1612130835_658.mp4
+#EXTINF:-1,v8.paradisehill.tv_660.mp4
+http://v8.paradisehill.tv/video/1612130835_660.mp4
+#EXTINF:-1,v8.paradisehill.tv_662.mp4
+http://v8.paradisehill.tv/video/1612130835_662.mp4
+#EXTINF:-1,v8.paradisehill.tv_664.mp4
+http://v8.paradisehill.tv/video/1612130835_664.mp4
+#EXTINF:-1,v8.paradisehill.tv_672.mp4
+http://v8.paradisehill.tv/video/1612130835_672.mp4
+#EXTINF:-1,v8.paradisehill.tv_676.mp4
+http://v8.paradisehill.tv/video/1612130835_676.mp4
+#EXTINF:-1,v8.paradisehill.tv_681.mp4
+http://v8.paradisehill.tv/video/1612130835_681.mp4
+#EXTINF:-1,v8.paradisehill.tv_683.mp4
+http://v8.paradisehill.tv/video/1612130835_683.mp4
+#EXTINF:-1,v8.paradisehill.tv_701.mp4
+http://v8.paradisehill.tv/video/1612130835_701.mp4
+#EXTINF:-1,v8.paradisehill.tv_703.mp4
+http://v8.paradisehill.tv/video/1612130835_703.mp4
+#EXTINF:-1,v8.paradisehill.tv_705.mp4
+http://v8.paradisehill.tv/video/1612130835_705.mp4
+#EXTINF:-1,v8.paradisehill.tv_707.mp4
+http://v8.paradisehill.tv/video/1612130835_707.mp4
+#EXTINF:-1,v8.paradisehill.tv_712.mp4
+http://v8.paradisehill.tv/video/1612130835_712.mp4
+#EXTINF:-1,v8.paradisehill.tv_714.mp4
+http://v8.paradisehill.tv/video/1612130835_714.mp4
+#EXTINF:-1,v8.paradisehill.tv_716.mp4
+http://v8.paradisehill.tv/video/1612130835_716.mp4
+#EXTINF:-1,v8.paradisehill.tv_719.mp4
+http://v8.paradisehill.tv/video/1612130835_719.mp4
+#EXTINF:-1,v8.paradisehill.tv_720.mp4
+http://v8.paradisehill.tv/video/1612130835_720.mp4
+#EXTINF:-1,v8.paradisehill.tv_722.mp4
+http://v8.paradisehill.tv/video/1612130835_722.mp4
+#EXTINF:-1,v8.paradisehill.tv_724.mp4
+http://v8.paradisehill.tv/video/1612130835_724.mp4
+#EXTINF:-1,v8.paradisehill.tv_728.mp4
+http://v8.paradisehill.tv/video/1612130835_728.mp4
+#EXTINF:-1,v8.paradisehill.tv_735.mp4
+http://v8.paradisehill.tv/video/1612130835_735.mp4
+#EXTINF:-1,v8.paradisehill.tv_737.mp4
+http://v8.paradisehill.tv/video/1612130835_737.mp4
+#EXTINF:-1,v8.paradisehill.tv_760.mp4
+http://v8.paradisehill.tv/video/1612130835_760.mp4
+#EXTINF:-1,v8.paradisehill.tv_762.mp4
+http://v8.paradisehill.tv/video/1612130835_762.mp4
+#EXTINF:-1,v8.paradisehill.tv_766.mp4
+http://v8.paradisehill.tv/video/1612130835_766.mp4
+#EXTINF:-1,v8.paradisehill.tv_769.mp4
+http://v8.paradisehill.tv/video/1612130835_769.mp4
+#EXTINF:-1,v8.paradisehill.tv_770.mp4
+http://v8.paradisehill.tv/video/1612130835_770.mp4
+#EXTINF:-1,v8.paradisehill.tv_772.mp4
+http://v8.paradisehill.tv/video/1612130835_772.mp4
+#EXTINF:-1,v8.paradisehill.tv_774.mp4
+http://v8.paradisehill.tv/video/1612130835_774.mp4
+#EXTINF:-1,v8.paradisehill.tv_778.mp4
+http://v8.paradisehill.tv/video/1612130835_778.mp4
+#EXTINF:-1,v8.paradisehill.tv_783.mp4
+http://v8.paradisehill.tv/video/1612130835_783.mp4
+#EXTINF:-1,v8.paradisehill.tv_787.mp4
+http://v8.paradisehill.tv/video/1612130835_787.mp4
+#EXTINF:-1,v8.paradisehill.tv_796.mp4
+http://v8.paradisehill.tv/video/1612130835_796.mp4
+#EXTINF:-1,v8.paradisehill.tv_801.mp4
+http://v8.paradisehill.tv/video/1612130835_801.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-1_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-1_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-1_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-1_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-101_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-101_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-101_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-101_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-105_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-105_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-107_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-107_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-11_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-11_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-13_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-13_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-14_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-14_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-15_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-15_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-15_part4.mp4
+http://v9.paradisehill.tv/video/241014-1848-15_part4.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-17_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-17_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-18_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-18_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-2_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-2_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-20_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-20_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-22_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-22_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-24_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-24_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-26_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-26_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-28_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-28_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-28_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-28_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-30_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-30_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-30_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-30_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-31_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-31_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-32_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-32_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-34_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-34_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-36_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-36_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-38_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-38_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-38_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-38_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-39_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-39_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-4_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-4_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-40_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-40_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-41_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-41_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-43_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-43_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-45_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-45_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-47_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-47_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-48_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-48_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-49_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-49_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-50_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-50_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-51_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-51_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-52_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-52_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-52_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-52_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-54_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-54_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-55_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-55_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-57_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-57_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-58_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-58_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-6_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-6_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-60_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-60_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-61_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-61_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-62_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-62_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-63_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-63_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-64_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-64_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-65_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-65_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-66_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-66_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-67_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-67_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-68_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-68_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-69_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-69_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-70_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-70_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-71_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-71_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-72_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-72_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-73_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-73_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-74_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-74_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-75_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-75_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-76_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-76_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-76_part3.mp4
+http://v9.paradisehill.tv/video/241014-1848-76_part3.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-77_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-77_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-77_part4.mp4
+http://v9.paradisehill.tv/video/241014-1848-77_part4.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-78_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-78_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-79_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-79_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-8_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-8_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-80_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-80_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-82_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-82_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-83_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-83_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-83_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-83_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-84_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-84_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-85_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-85_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-86_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-86_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-87_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-87_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-93_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-93_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-94_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-94_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-95_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-95_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-96_part1.mp4
+http://v9.paradisehill.tv/video/241014-1848-96_part1.mp4
+#EXTINF:-1,v9.paradisehill.tv_014-1848-97_part2.mp4
+http://v9.paradisehill.tv/video/241014-1848-97_part2.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_101.mp4
+http://v8.paradisehill.tv/video/2002141414_101.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_104.mp4
+http://v8.paradisehill.tv/video/2002141414_104.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_105.mp4
+http://v8.paradisehill.tv/video/2002141414_105.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_107.mp4
+http://v8.paradisehill.tv/video/2002141414_107.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_109.mp4
+http://v8.paradisehill.tv/video/2002141414_109.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_11.mp4
+http://v8.paradisehill.tv/video/2002141414_11.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_111.mp4
+http://v8.paradisehill.tv/video/2002141414_111.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_113.mp4
+http://v8.paradisehill.tv/video/2002141414_113.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_116.mp4
+http://v8.paradisehill.tv/video/2002141414_116.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_118.mp4
+http://v8.paradisehill.tv/video/2002141414_118.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_119.mp4
+http://v8.paradisehill.tv/video/2002141414_119.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_121.mp4
+http://v8.paradisehill.tv/video/2002141414_121.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_127.mp4
+http://v8.paradisehill.tv/video/2002141414_127.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_128.mp4
+http://v8.paradisehill.tv/video/2002141414_128.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_129.mp4
+http://v8.paradisehill.tv/video/2002141414_129.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_13.mp4
+http://v8.paradisehill.tv/video/2002141414_13.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_131.mp4
+http://v8.paradisehill.tv/video/2002141414_131.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_134.mp4
+http://v8.paradisehill.tv/video/2002141414_134.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_136.mp4
+http://v8.paradisehill.tv/video/2002141414_136.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_137.mp4
+http://v8.paradisehill.tv/video/2002141414_137.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_138.mp4
+http://v8.paradisehill.tv/video/2002141414_138.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_140.mp4
+http://v8.paradisehill.tv/video/2002141414_140.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_143.mp4
+http://v8.paradisehill.tv/video/2002141414_143.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_145.mp4
+http://v8.paradisehill.tv/video/2002141414_145.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_147.mp4
+http://v8.paradisehill.tv/video/2002141414_147.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_149.mp4
+http://v8.paradisehill.tv/video/2002141414_149.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_15.mp4
+http://v8.paradisehill.tv/video/2002141414_15.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_150.mp4
+http://v8.paradisehill.tv/video/2002141414_150.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_24.mp4
+http://v8.paradisehill.tv/video/2002141414_24.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_26.mp4
+http://v8.paradisehill.tv/video/2002141414_26.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_28.mp4
+http://v8.paradisehill.tv/video/2002141414_28.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_30.mp4
+http://v8.paradisehill.tv/video/2002141414_30.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_34.mp4
+http://v8.paradisehill.tv/video/2002141414_34.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_36.mp4
+http://v8.paradisehill.tv/video/2002141414_36.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_38.mp4
+http://v8.paradisehill.tv/video/2002141414_38.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_40.mp4
+http://v8.paradisehill.tv/video/2002141414_40.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_41.mp4
+http://v8.paradisehill.tv/video/2002141414_41.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_43.mp4
+http://v8.paradisehill.tv/video/2002141414_43.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_45.mp4
+http://v8.paradisehill.tv/video/2002141414_45.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_47.mp4
+http://v8.paradisehill.tv/video/2002141414_47.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_50.mp4
+http://v8.paradisehill.tv/video/2002141414_50.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_51.mp4
+http://v8.paradisehill.tv/video/2002141414_51.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_54.mp4
+http://v8.paradisehill.tv/video/2002141414_54.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_56.mp4
+http://v8.paradisehill.tv/video/2002141414_56.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_57.mp4
+http://v8.paradisehill.tv/video/2002141414_57.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_63.mp4
+http://v8.paradisehill.tv/video/2002141414_63.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_64.mp4
+http://v8.paradisehill.tv/video/2002141414_64.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_66.mp4
+http://v8.paradisehill.tv/video/2002141414_66.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_68.mp4
+http://v8.paradisehill.tv/video/2002141414_68.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_72.mp4
+http://v8.paradisehill.tv/video/2002141414_72.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_73.mp4
+http://v8.paradisehill.tv/video/2002141414_73.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_79.mp4
+http://v8.paradisehill.tv/video/2002141414_79.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_82.mp4
+http://v8.paradisehill.tv/video/2002141414_82.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_83.mp4
+http://v8.paradisehill.tv/video/2002141414_83.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_86.mp4
+http://v8.paradisehill.tv/video/2002141414_86.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_87.mp4
+http://v8.paradisehill.tv/video/2002141414_87.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_89.mp4
+http://v8.paradisehill.tv/video/2002141414_89.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_92.mp4
+http://v8.paradisehill.tv/video/2002141414_92.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_93.mp4
+http://v8.paradisehill.tv/video/2002141414_93.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_95.mp4
+http://v8.paradisehill.tv/video/2002141414_95.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_98.mp4
+http://v8.paradisehill.tv/video/2002141414_98.mp4
+#EXTINF:-1,v9.paradisehill.tv_414_99.mp4
+http://v8.paradisehill.tv/video/2002141414_99.mp4
+#EXTINF:-1,v9.paradisehill.tv_wild_party_girls_23.mp4
+http://v8.paradisehill.tv/video/wild_party_girls_23.mp4
+#EXTINF:-1,v9.paradisehill.tv_wild_party_girls_50.mp4
+http://v8.paradisehill.tv/video/wild_party_girls_50.mp4
+#EXTINF:-1,Vem Com Tudo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena1.mp4
+#EXTINF:-1,Vem Com Tudo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena2.mp4
+#EXTINF:-1,Vem Com Tudo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena3.mp4
+#EXTINF:-1,Vem Com Tudo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena4.mp4
+#EXTINF:-1,Vem Com Tudo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena5.mp4
+#EXTINF:-1,VIDEO DVD.Title2.DVDRip
+http://v8.paradisehill.tv/video/1612130835_461.mp4
+#EXTINF:-1,Vizinhas Gostosas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena1.mp4
+#EXTINF:-1,Vizinhas Gostosas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena2.mp4
+#EXTINF:-1,Vizinhas Gostosas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena3.mp4
+#EXTINF:-1,Vizinhas Gostosas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena4.mp4
+#EXTINF:-1,Vizinhas Gostosas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena5.mp4
+#EXTINF:-1,Você Quer - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena1.mp4
+#EXTINF:-1,Você Quer - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena2.mp4
+#EXTINF:-1,Você Quer - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena3.mp4
+#EXTINF:-1,Você Quer - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena4.mp4
+#EXTINF:-1,Você Quer - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena5.mp4
+#EXTINF:-1,Wetwork
+http://v9.paradisehill.tv/video/241014-1848-111_part2.mp4
+#EXTINF:-1,XXX Music
+http://zazax1.ru/video/basstr.flv
+#EXTINF:-1,XXX Music 1
+http://zazax1.ru/videos/baz55.flv
+#EXTINF:-1,XXX Music 10
+http://zazax1.ru/videos/baz64.flv
+#EXTINF:-1,XXX Music 11
+http://zazax1.ru/video/muz10.flv
+#EXTINF:-1,XXX Music 12
+http://zazax1.ru/videos/muz1.flv
+#EXTINF:-1,XXX Music 13
+http://zazax1.ru/videos/muz3.flv
+#EXTINF:-1,XXX Music 14
+http://zazax1.ru/video/provmc.flv
+#EXTINF:-1,XXX Music 15
+http://zazax1.ru/video/muz3.flv
+#EXTINF:-1,XXX Music 16
+http://zazax1.ru/video/barto.mp4
+#EXTINF:-1,XXX Music 17
+http://zazax1.ru/video/mzclip.mp4
+#EXTINF:-1,XXX Music 18
+http://zazax1.ru/video/masterlatex.mp4
+#EXTINF:-1,XXX Music 19
+http://zazax1.ru/video/Money%20Boy-Stripclub.flv
+#EXTINF:-1,XXX Music 2
+http://zazax1.ru/videos/baz4.flv
+#EXTINF:-1,XXX Music 20
+http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
+#EXTINF:-1,XXX Music 21
+http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
+#EXTINF:-1,XXX Music 22
+http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
+#EXTINF:-1,XXX Music 23
+http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
+#EXTINF:-1,XXX Music 3
+http://zazax1.ru/videos/baz57.flv
+#EXTINF:-1,XXX Music 4
+http://zazax1.ru/videos/muz.flv
+#EXTINF:-1,XXX Music 5
+http://zazax1.ru/videos/baz66.flv
+#EXTINF:-1,XXX Music 6
+http://zazax1.ru/video/lesr.flv
+#EXTINF:-1,XXX Music 7
+http://zazax1.ru/videos/baz65.flv
+#EXTINF:-1,XXX Music 8
+http://zazax1.ru/video/nemnf.flv
+#EXTINF:-1,XXX Music 9
+http://zazax1.ru/videos/011.flv
+#EXTINF:-1,XXX VOD 01
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167441-c8e88fa.mp4
+#EXTINF:-1,XXX VOD 02
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171914-037556b.mp4
+#EXTINF:-1,XXX VOD 03
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168425-c926445.mp4
+#EXTINF:-1,XXX VOD 04
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170299-037b3a7.mp4
+#EXTINF:-1,XXX VOD 05
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170889-21fb165.mp4
+#EXTINF:-1,XXX VOD 06
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167525-c8c9a28.mp4
+#EXTINF:-1,XXX VOD 07
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169900-99a74de.mp4
+#EXTINF:-1,XXX VOD 08
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167787-c8c8bc5.mp4
+#EXTINF:-1,XXX VOD 09
+http://videos-porno8.petardashd.com/archivos3/hd/hd-170741-036d57a.mp4
+#EXTINF:-1,XXX VOD 10
+http://videos-porno1.petardashd.com/archivos3/hd/hd-168873-c75ec87.mp4
+#EXTINF:-1,XXX VOD 11
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168779-c802432.mp4
+#EXTINF:-1,XXX VOD 12
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169902-98710ed.mp4
+#EXTINF:-1,XXX VOD 13
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169239-c7ce9a1.mp4
+#EXTINF:-1,XXX VOD 14
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171599-0327123.mp4
+#EXTINF:-1,XXX VOD 15
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167362-c7c997c.mp4
+#EXTINF:-1,XXX VOD 16
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171326-20b3d23.mp4
+#EXTINF:-1,XXX VOD 17
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167775-c7bfee1.mp4
+#EXTINF:-1,XXX VOD 18
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166393-c7b993b.mp4
+#EXTINF:-1,XXX VOD 18
+http://videos-porno5.petardashd.com/archivos3/hd/hd-169871-9830686.mp4
+#EXTINF:-1,XXX VOD 20
+http://videos-porno8.petardashd.com/archivos3/hd/hd-170744-02655b2.mp4
+#EXTINF:-1,XXX VOD 21
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168315-c77aec8.mp4
+#EXTINF:-1,XXX VOD 22
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171751-02eacb6.mp4
+#EXTINF:-1,XXX VOD 23
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167798-c777df8.mp4
+#EXTINF:-1,XXX VOD 24
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167450-c76bdc4.mp4
+#EXTINF:-1,XXX VOD 25
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169628-97635af.mp4
+#EXTINF:-1,XXX VOD 26
+http://videos-porno1.petardashd.com/archivos3/hd/hd-170731-060f53e.mp4
+#EXTINF:-1,XXX VOD 27
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166487-cbc0408.mp4
+#EXTINF:-1,XXX VOD 28
+http://videos-porno5.petardashd.com/archivos3/hd/hd-172160-06574c0.mp4
+#EXTINF:-1,XXX VOD 29
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167129-cb87d4c.mp4
+#EXTINF:-1,XXX VOD 30
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
+#EXTINF:-1,XXX VOD 31
+http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
+#EXTINF:-1,XXX VOD 32
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169826-9ef34cc.mp4
+#EXTINF:-1,XXX VOD 33
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168664-cb605bb.mp4
+#EXTINF:-1,XXX VOD 34
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170213-05f1bd2.mp4
+#EXTINF:-1,XXX VOD 35
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166543-cb4208e.mp4
+#EXTINF:-1,XXX VOD 36
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171946-0609da9.mp4
+#EXTINF:-1,XXX VOD 37
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167704-cb3bbf3.mp4
+#EXTINF:-1,XXX VOD 38
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171174-25eabfb.mp4
+#EXTINF:-1,XXX VOD 39
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168818-cb39265.mp4
+#EXTINF:-1,XXX VOD 40
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169788-9e123a0.mp4
+#EXTINF:-1,XXX VOD 41
+http://videos-porno1.petardashd.com/archivos3/hd/hd-168100-cb02850.mp4
+#EXTINF:-1,XXX VOD 42
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170013-0549e11.mp4
+#EXTINF:-1,XXX VOD 43
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167879-cae8a11.mp4
+#EXTINF:-1,XXX VOD 44
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171402-25c8c2b.mp4
+#EXTINF:-1,XXX VOD 45
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169360-cae3ee5.mp4
+#EXTINF:-1,XXX VOD 46
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169784-9ddd444.mp4
+#EXTINF:-1,XXX VOD 47
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166446-cac0bc8.mp4
+#EXTINF:-1,XXX VOD 48
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170616-04eb87d.mp4
+#EXTINF:-1,XXX VOD 49
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169288-ca5f2f4.mp4
+#EXTINF:-1,XXX VOD 50
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4
+#EXTINF:-1,XXX-ASIA 1
+http://video.mystreamservice.com/480p/1225998.mp4
+#EXTINF:-1,XXX-ASIA 10
+http://video.mystreamservice.com/480p/7474335.mp4
+#EXTINF:-1,XXX-ASIA 11
+http://video.mystreamservice.com/480p/1355423.mp4
+#EXTINF:-1,XXX-ASIA 12
+http://video.mystreamservice.com/480p/6768826.mp4
+#EXTINF:-1,XXX-ASIA 13
+http://video.mystreamservice.com/480p/9491727.mp4
+#EXTINF:-1,XXX-ASIA 14
+http://video.mystreamservice.com/480p/9380212.mp4
+#EXTINF:-1,XXX-ASIA 15
+http://video.mystreamservice.com/480p/5110472.mp4
+#EXTINF:-1,XXX-ASIA 16
+http://video.mystreamservice.com/480p/5351942.mp4
+#EXTINF:-1,XXX-ASIA 17
+http://video.mystreamservice.com/480p/3598323.mp4
+#EXTINF:-1,XXX-ASIA 18
+http://video.mystreamservice.com/480p/5906622.mp4
+#EXTINF:-1,XXX-ASIA 19
+http://video.mystreamservice.com/480p/7658002.mp4
+#EXTINF:-1,XXX-ASIA 2
+http://video.mystreamservice.com/480p/5305118.mp4
+#EXTINF:-1,XXX-ASIA 20
+http://video.mystreamservice.com/480p/6520968.mp4
+#EXTINF:-1,XXX-ASIA 3
+http://video.mystreamservice.com/480p/2792062.mp4
+#EXTINF:-1,XXX-ASIA 4
+http://video.mystreamservice.com/480p/5157680.mp4
+#EXTINF:-1,XXX-ASIA 5
+http://video.mystreamservice.com/480p/5719682.mp4
+#EXTINF:-1,XXX-ASIA 6
+http://video.mystreamservice.com/480p/5139708.mp4
+#EXTINF:-1,XXX-ASIA 7
+http://video.mystreamservice.com/480p/7492351.mp4
+#EXTINF:-1,XXX-ASIA 8
+http://video.mystreamservice.com/480p/4018238.mp4
+#EXTINF:-1,XXX-ASIA 9
+http://video.mystreamservice.com/480p/1824590.mp4
+#EXTINF:-1,XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1,XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1,XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1,XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1,XXX-Babes 14
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1,XXX-Babes 15
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1,XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1,XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1,XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1,XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1,XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1,XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1,XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1,XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1,XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1,XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1,XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1,XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1,XXX-Babes 9
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1,XXX-VOD European 01
+http://video.mystreamservice.com/480p/3249585.mp4
+#EXTINF:-1,XXX-VOD European 02
+http://video.mystreamservice.com/480p/6575436.mp4
+#EXTINF:-1,XXX-VOD European 03
+http://video.mystreamservice.com/480p/3963342.mp4
+#EXTINF:-1,XXX-VOD European 04
+http://video.mystreamservice.com/480p/9782465.mp4
+#EXTINF:-1,XXX-VOD European 05
+http://video.mystreamservice.com/480p/3930465.mp4
+#EXTINF:-1,XXX-VOD European 06
+http://video.mystreamservice.com/480p/6283262.mp4
+#EXTINF:-1,XXX-VOD European 07
+http://video.mystreamservice.com/480p/6754703.mp4
+#EXTINF:-1,XXX-VOD European 08
+http://video.mystreamservice.com/480p/8133916.mp4
+#EXTINF:-1,XXX-VOD European 09
+http://video.mystreamservice.com/480p/6444083.mp4
+#EXTINF:-1,XXX-VOD European 10
+http://video.mystreamservice.com/480p/5349136.mp4
+#EXTINF:-1,XXX-VOD European 11
+http://video.mystreamservice.com/480p/1767086.mp4
+#EXTINF:-1,XXX-VOD European 12
+http://video.mystreamservice.com/480p/3767469.mp4
+#EXTINF:-1,XXX-VOD European 13
+http://video.mystreamservice.com/480p/4590645.mp4
+#EXTINF:-1,XXX-VOD European 14
+http://video.mystreamservice.com/480p/2051041.mp4
+#EXTINF:-1,XXX-VOD European 15
+http://video.mystreamservice.com/480p/4821940.mp4
+#EXTINF:-1,XXX-VOD European 16
+http://video.mystreamservice.com/480p/9653942.mp4
+#EXTINF:-1,XXX-VOD European 17
+http://video.mystreamservice.com/480p/5150346.mp4
+#EXTINF:-1,XXX-VOD European 18
+http://video.mystreamservice.com/480p/1001590.mp4
+#EXTINF:-1,XXX-VOD European 19
+http://video.mystreamservice.com/480p/9098910.mp4
+#EXTINF:-1,XXX-VOD European 20
+http://www.hdtubes.net/get_file/22/2f8ffcf45c84551b10784d8bd92921d8/6000/6081/6081.mp4
+#EXTINF:-1,XXX-VOD European 21
+http://www.hdtubes.net/get_file/25/aae603d09acd62ef2438c544263ddd70/6000/6512/6512.mp4
+#EXTINF:-1,XXX-VOD European 22
+http://www.hdtubes.net/get_file/6/3375bb99d223d0903122bdd83f9d833c/5000/5131/5131.mp4
+#EXTINF:-1,XXX-VOD European 23
+http://www.hdtubes.net/get_file/13/e181f8869d38e9295f595433c9e8b631/5000/5893/5893.mp4
+#EXTINF:-1,XXX-VOD European 24
+http://www.finevids.com/get_file/3/21a52dc99f2b2c16bc8fd5ade6148e0e/31000/31714/31714.mp4
+#EXTINF:-1,XXX-VOD European 25
+http://www.pornoid.com/get_file/1/97d87ea457fd5fe1344898ca9f39e656/11000/11231/11231.mp4
+#EXTINF:-1,XXX-VOD European 27
+http://video.mystreamservice.com/480p/2081078.mp4
+#EXTINF:-1,XXX-VOD European 28
+http://www.hdtubes.net/get_file/24/6fd9bb140d79f87e33ecc9727b8f1b04/7000/7939/7939.mp4
+#EXTINF:-1,XXX-VOD European 29
+http://www.hdtubes.net/get_file/7/e22ff24188aa9bbbbc8d89663ebf7935/7000/7617/7617.mp4
+#EXTINF:-1,XXX-VOD European 30
+http://www.hdtubes.net/get_file/22/b08c4434080a9c8773160c90cca967d5/7000/7965/7965.mp4
+#EXTINF:-1,XXX-VOD European 31
+http://www.hdtubes.net/get_file/14/f81d40a4fe0c994d792759cabd69491c/7000/7660/7660.mp4
+#EXTINF:-1,XXX-VOD European 32
+http://www.hdtubes.net/get_file/5/d9f2edb57c7dc8c26b557203b442f7fd/5000/5277/5277.mp4
+#EXTINF:-1,XXX-VOD European 33
+http://www.hdtubes.net/get_file/11/935a2edca33985bf984fec79a471a32f/7000/7739/7739.mp4
+#EXTINF:-1,XXX-VOD European 34
+http://www.hdtubes.net/get_file/19/386914e0d17bdf734fc6c0564ba57403/5000/5181/5181.mp4
+#EXTINF:-1,XXX-VOD European 35
+http://www.hdtubes.net/get_file/12/66154657a01aca1094228e0204f7b659/5000/5959/5959.mp4
+#EXTINF:-1,XXX-VOD European 36
+http://www.hdtubes.net/get_file/11/e92d467d62b24cc08e6b320343da9634/7000/7614/7614.mp4
+#EXTINF:-1,XXX-VOD European 37
+http://www.hdtubes.net/get_file/11/466e7431f029d4c0d216a8cc8d27dece/4000/4931/4931.mp4
+#EXTINF:-1,XXX-VOD European 38
+http://www.hdtubes.net/get_file/21/da2eb118306d8826273629b108e4017f/6000/6592/6592.mp4
+#EXTINF:-1,XXX-VOD European 39
+http://www.hdtubes.net/get_file/19/379e1bad480c487d0b1e1a1bd5ee910b/4000/4974/4974.mp4
+#EXTINF:-1,XXX-VOD European 40
+http://www.hdtubes.net/get_file/22/31c10f8747ed1f0e5930fc18f7742635/4000/4081/4081.mp4
+#EXTINF:-1,XXX-VOD European 41
+http://www.hdtubes.net/get_file/17/80ef349821223afbd69864324a01921d/5000/5195/5195.mp4
+#EXTINF:-1,XXX-VOD European 42
+http://www.hdtubes.net/get_file/13/287bfcce92654cfd9362b1d9c772dce1/7000/7949/7949.mp4
+#EXTINF:-1,XXX-VOD European 43
+http://www.hdtubes.net/get_file/22/c3cff8a898b4f4a26f2d6cfae13bdbff/3000/3991/3991.mp4
+#EXTINF:-1,XXX-VOD European 45
+http://www.hdtubes.net/get_file/23/c06b2df5beccfd2df1f3609ba99e9280/6000/6011/6011.mp4
+#EXTINF:-1,XXX-VOD European 46
+http://www.hdtubes.net/get_file/18/715bddc9fd1026616ff1d95720d60d22/7000/7733/7733.mp4
+#EXTINF:-1,XXX-VOD European 47
+http://www.hdtubes.net/get_file/20/319c1ee88d3ac2ea60340fa3f2c28606/5000/5165/5165.mp4
+#EXTINF:-1,XXX-VOD European 48
+http://www.hdtubes.net/get_file/8/72a0ab10d1d6c10e82ccfbe1d84f5d53/5000/5186/5186.mp4
+#EXTINF:-1,XXX-VOD European 49
+http://www.hdtubes.net/get_file/14/ac3127f4a783891f4ee8c492c5fae2f6/7000/7537/7537.mp4
+#EXTINF:-1,XXX-VOD European 50
+http://www.hdtubes.net/get_file/6/8d970403b1bda9f4b538f5b684ec0b36/7000/7540/7540.mp4
+#EXTINF:-1,XXXVOD3D-+18 3D
+http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
+#EXTINF:-1,XXXVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:-1,XXXVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:-1,XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:-1,XXXVOD3D-12+18 3D
+http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
+#EXTINF:-1,XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:-1,XXXVOD3D-14+18 3D
+http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
+#EXTINF:-1,XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:-1,XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+#EXTINF:-1,XXXVOD3D-17+18 3D
+http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
+#EXTINF:-1,XXXVOD3D-18+18 3D
+http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
+#EXTINF:-1,XXXVOD3D-19+18 3D
+http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
+#EXTINF:-1,XXXVOD3D-2+18 3D
+http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
+#EXTINF:-1,XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+#EXTINF:-1,XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+#EXTINF:-1,XXXVOD3D-22+18 3D
+http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
+#EXTINF:-1,XXXVOD3D-23+18 3D
+http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
+#EXTINF:-1,XXXVOD3D-24+18 3D
+http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
+#EXTINF:-1,XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+#EXTINF:-1,XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+#EXTINF:-1,XXXVOD3D-27+18 3D
+http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
+#EXTINF:-1,XXXVOD3D-28+18 3D
+http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
+#EXTINF:-1,XXXVOD3D-29+18 3D
+http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
+#EXTINF:-1,XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+#EXTINF:-1,XXXVOD3D-30+18 3D
+http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
+#EXTINF:-1,XXXVOD3D-31+18 3D
+http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
+#EXTINF:-1,XXXVOD3D-32+18 3D
+http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
+#EXTINF:-1,XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+#EXTINF:-1,XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+#EXTINF:-1,XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+#EXTINF:-1,XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+#EXTINF:-1,XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+#EXTINF:-1,XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF: Fox Sports 1
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 2
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 3
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:Fox Sports 4
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 5
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:1, Sky SPORTS 1HD
+http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 2HD
+http://195.154.227.38:1935/live/skysports2lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 3HD
+http://195.154.227.38:1935/live/skysports3lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 4HD
+http://195.154.227.38:1935/live/skysports4lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 5HD
+http://195.154.227.38:1935/live/skysports5lsh/anis_sat.m3u8
+#EXTINF: Fox Sports 1
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 2
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 3
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:Fox Sports 4
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 5
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:0,BBC 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+#EXTINF:0,BBC 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+#EXTINF:0,BBC 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+#EXTINF:0,BBC 2 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42
+#EXTINF:0,BBC 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48
+#EXTINF:0,BBC 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36
+#EXTINF:0,BBC News
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=40
+#EXTINF:0,BBC News Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+#EXTINF:0,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+#EXTINF:0,ITV 1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43
+#EXTINF:0,ITV 1 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52
+#EXTINF:0,ITV 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
+#EXTINF:0,ITV 2 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53
+#EXTINF:0,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+#EXTINF:0,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+#EXTINF:0,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+#EXTINF:0,CBS Action
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+#EXTINF:0,CBS Reality
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+#EXTINF:0,Challenge
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18
+#EXTINF:0,Channel 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3
+#EXTINF:0,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+#EXTINF:0,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+#EXTINF:0,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+#EXTINF:0,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+#EXTINF:0,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+#EXTINF:0,Channel 5 +24
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64
+#EXTINF:0,Dave
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+#EXTINF:0,Dave Ja Vu
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+#EXTINF:0,Drama
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+#EXTINF:0,E4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+#EXTINF:0,E4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59
+#EXTINF:0,Film Four
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+#EXTINF:0,Film Four +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+#EXTINF:0,Food Network
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+#EXTINF:0,Horror Channel
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+#EXTINF:0,More 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+#EXTINF:0,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+#EXTINF:0,MovieMix
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+#EXTINF:0,Movies4Men
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+#EXTINF:0,Pick TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+#EXTINF:0,Quest
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+#EXTINF:0,Quest +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+#EXTINF:0,Really
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+#EXTINF:0,Spike UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+#EXTINF:0,True Entertainment
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+#EXTINF:0,TruTV UK
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+#EXTINF:0,Yesterday
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+#EXTINF:0,4 Music
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+#EXTINF:0,4 Seven
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+#EXTINF:0,4 Seven Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+#EXTINF:0,5 Star
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+#EXTINF:0,5 USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+#‎EXTINF‬:-1 Fox 1 (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,Fox Action (US)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,FOX CINEMA (US)
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,Fox Family (US)
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,FOX CLASSICS (US)
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8? 
+
+#EXTINF:-1 ,FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8? 
+
+#EXTINF:-1, ,DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?

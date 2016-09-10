@@ -1,0 +1,502 @@
+#EXTINF:-1 group-title="radio" radio="true",Ville de Montreal
+http://m3u.domtardif.info
+#EXTINF:-1 tvg-logo="cism.png" group-title="radio" radio="true",CISM
+http://stream03.ustream.ca:8000/cism128.mp3
+#EXTINF:-1 tvg-logo="ckut.png" group-title="radio" radio="true",CKUT
+http://secure.ckut.ca:8000/ckut-live-128
+#EXTINF:-1 tvg-logo="radiovm.png" group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 tvg-logo="radio9.png" group-title="radio" radio="true",Radio9
+http://stream.radiox.com/cklx.mp3
+#EXTINF:-1 tvg-logo="cjmc-fm.png" group-title="radio" radio="true",CJMC-FM
+http://xltrax.com:8010
+#EXTINF:-1 tvg-logo="nrj.png" group-title="radio" radio="true",NRJ 94.3
+http://ckmf-aac.akacast.akamaistream.net/7/493/102120/v1/astral.akacast.akamaistream.net/ckmf-aac
+#EXTINF:-1 tvg-logo="premieremontreal.png" group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 tvg-logo="chox.png" group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 tvg-logo="chom.png" group-title="radio" radio="true",CHOM
+http://chom-aac.akacast.akamaistream.net/7/301/102120/v1/astral.akacast.akamaistream.net/chom-aac
+#EXTINF:-1 tvg-logo="cjvdfm.png" group-title="radio" radio="true",CJVD-FM
+http://xlnetwork.info:8820/
+#EXTINF:-1 tvg-logo="ckvl.png" group-title="radio" radio="true",CKVL-FM
+http://stardust.wavestreamer.com:5167/Live
+#EXTINF:-1 tvg-logo="icimusique.png" group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 tvg-logo="cibl.png" group-title="radio" radio="true",CIBL Radio-Montréal 1101.5 FM
+http://stream02.ustream.ca:8000/cibl128.mp3
+#EXTINF:-1 tvg-logo="chai.png" group-title="radio" radio="true",CHAI
+http://dj-eric.net:8000/
+#EXTINF:-1 tvg-logo="radiocentreville.png" group-title="radio" radio="true",Radio Centre-Ville
+http://199.202.64.118:8044/stream
+#EXTINF:-1 tvg-logo="fm1033.png" group-title="radio" radio="true",FM 103.3
+http://stream02.ustream.ca:8000/fm1033128.mp3
+#EXTINF:-1 tvg-logo="m1035fm.png" group-title="radio" radio="true",M 103.5 FM
+http://207.253.100.153:8000/mp3/intro.mp3
+#EXTINF:-1 tvg-logo="themonster.png" group-title="radio" radio="true",The Monster
+http://knw-stream.mohawk.ca:8000/k103
+#EXTINF:-1 tvg-logo="chocfm.png" group-title="radio" radio="true",CHOC-FM
+http://radio.chocfm.com:8006
+#EXTINF:-1 tvg-logo="cjlafm.png" group-title="radio" radio="true",CJLA-FM
+http://stream.rncmedia.ca/planetelov.mp3
+#EXTINF:-1 tvg-logo="mikefm.png" group-title="radio" radio="true",MIKE FM
+http://212.83.135.226:9912/
+#EXTINF:-1 tvg-logo="ckinfm.png" group-title="radio" radio="true",CKIN-FM
+http://212.83.135.226:9992
+#EXTINF:-1 tvg-logo="le1040.png" group-title="radio" radio="true",Le 1040
+http://gemini.shoutca.st:8572/stream
+#EXTINF:-1 tvg-logo="cfbmradiomontreal.png" group-title="radio" radio="true",CFMB Radio Montréal
+http://www.live365.com/play/cfmb
+#EXTINF:-1 tvg-logo="cpam.png" group-title="radio" radio="true",CPAM
+http://s1.voscast.com:7538
+#EXTINF:-1 tvg-logo="radiomoyenorient.png" group-title="radio" radio="true",Radio Moyen-Orient
+http://s2.voscast.com:7386
+#EXTINF:-1 tvg-logo="am1570.png" group-title="radio" radio="true",AM 1570
+http://xlnetwork.info:8620/
+#EXTINF:-1 tvg-logo="radioshalom.png" group-title="radio" radio="true",Radio Shalom
+http://50.7.70.66:8509/stream
+#EXTINF:-1 tvg-logo="ckzw.png" group-title="radio" radio="true",CKZW
+http://a1team.net:8128
+#EXTINF:-1 tvg-logo="cjlo.png" group-title="radio" radio="true",CJLO
+http://38.99.182.49:20786/
+#EXTINF:-1 tvg-logo="choqfm.png" group-title="radio" radio="true",CHOQ.FM
+http://diffusion.choq.fm:8000/choqfm1.mp3
+#EXTINF:-1 tvg-logo="radio2040.png" group-title="radio" radio="true",Radio 2040
+http://192.99.7.50:8448/
+#EXTINF:-1 tvg-logo="radioclassique.png" group-title="radio" radio="true",CJPX Radio Classique
+http://208.80.52.118/CJPXFM.mp3
+#EXTINF:-1 tvg-logo="985montreal.png" group-title="radio" radio="true",98.5
+http://38.100.101.65/CHMPFMAAC
+#EXTINF:-1 tvg-logo="ckoi.png" group-title="radio" radio="true",CKOI
+http://208.80.52.126:80/CKOIFMAAC_128
+#EXTINF:-1 tvg-logo="cbcradionone.png" group-title="radio" radio="true",CBC Radio One Montreal
+http://208.92.55.51/CBC_R1_MTL_H
+#EXTINF:-1 tvg-logo="thebeat.png" group-title="radio" radio="true",The Beat
+http://208.92.55.51/CFQRFMAAC_64
+#EXTINF:-1 tvg-logo="rythmefm.png" group-title="radio" radio="true", 105.7 Rythme FM
+http://208.92.55.47/CFGLFMAAC_64
+#EXTINF:-1 tvg-logo="radiocirculation.png" group-title="radio" radio="true", Radio Circulation 730
+http://208.80.52.98/CKACAMAAC
+#EXTINF:-1 tvg-logo="virginradio.png" group-title="radio" radio="true", Virgin Radio 96
+http://cjfm-aac.akacast.akamaistream.net/7/468/102120/v1/astral.akacast.akamaistream.net/cjfm-aac
+#EXTINF:-1 tvg-logo="cjad.png" group-title="radio" radio="true, CJAD 800 AM
+http://cjad-aac.akacast.akamaistream.net/7/568/102120/v1/astral.akacast.akamaistream.net/cjad-aac
+#EXTINF:-1 tvg-logo="rouge1073.png" group-title="radio" radio="true, Rouge FM 107.3
+http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
+#EXTINF:-1 tvg-logo="boomfm.png" group-title="radio" radio="true, Boom FM 104.1
+http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Quebec
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKRL 89.1
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 group-title="radio" radio="true",CiQi FM
+http://38.127.70.219:8413
+#EXTINF:-1 group-title="radio" radio="true",WKND 91.9
+http://148.251.146.100:8000/cjec.flv
+#EXTINF:-1 group-title="radio" radio="true",CHYZ
+http://live.chyz.ca:8000
+#EXTINF:-1 group-title="radio" radio="true",Lévis 96.9 
+http://sc6.spacialnet.com:34102
+#EXTINF:-1 group-title="radio" radio="true",CHOI 98.1 Radio X
+http://stream.rncmedia.ca/choi
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.9
+http://astral.akacast.akamaistream.net/7/928/102120/v1/astral.akacast.akamaistream.net/chik-aac
+#EXTINF:-1 group-title="radio" radio="true",ROCK 100.9
+http://stream.rncmedia.ca/chxx.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKOI Quebec
+http://148.251.146.100:8000/cfel.flv
+#EXTINF:-1 group-title="radio" radio="true",Passion FM
+http://stream02.ustream.ca:8000/cfin128.mp3
+#EXTINF:-1 group-title="radio" radio="true",Première Québec
+http://2QQUE0.akacast.akamaistream.net/7/896/177395/v1/rc.akacast.akamaistream.net/2QQUE0
+#EXTINF:-1 group-title="radio" radio="true",FM93
+http://208.92.55.51/CJMFFMAAC
+#EXTINF:-1 group-title="radio" radio="true",Ville de Saguenay
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Première Saguenay
+http://2QSAG0.akacast.akamaistream.net/7/933/177389/v1/rc.akacast.akamaistream.net/2QSAG0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 94.5
+http://astral.akacast.akamaistream.net/7/379/102120/v1/astral.akacast.akamaistream.net/cjab-aac
+#EXTINF:-1 group-title="radio" radio="true",Radio X
+http://stream.rncmedia.ca/chicoutimi.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Saguenay
+http://7QSAG0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0
+#EXTINF:-1 group-title="radio" radio="true",Planète 104.5
+http://stream.rncmedia.ca/alma.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CEUCRadio
+http://mediacast1.megaquebec.net:8038/listen.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sept-Iles
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CKAU-FM
+http://streams.museter.com:2199/tunein/ckau48.pls
+#EXTINF:-1 group-title="radio" radio="true",Pur FM
+http://192.99.105.197:8012
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Première Sept-Iles
+http://2QSEP0.akacast.akamaistream.net/7/892/177399/v1/rc.akacast.akamaistream.net/2QSEP0
+#EXTINF:-1 group-title="radio" radio="true",CIPC-FM
+http://192.99.105.197:8014
+#EXTINF:-1 group-title="radio" radio="true",Ville de Val-dOr
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.7
+http://astral.akacast.akamaistream.net/7/421/102120/v1/astral.akacast.akamaistream.net/cjmv-aac
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/abitibi-chgo2.planeteradio.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHOW-FM
+http://stream.radioboreale.com:8000/Radio_Boreale
+#EXTINF:-1 group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Amqui
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Chandler
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Radio Gaspésie
+http://stream02.ustream.ca:8000/cjrg32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Moncton
+http://7EMCT0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0
+#EXTINF:-1 group-title="radio" radio="true",BleuFM
+http://xltrax.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",Première Matane
+http://2QMAT0.akacast.akamaistream.net/7/608/177392/v1/rc.akacast.akamaistream.net/2QMAT0
+#EXTINF:-1 group-title="radio" radio="true",CHNC
+http://radiosolution.info:8140/
+#EXTINF:-1 group-title="radio" radio="true",Ville de Mont-Laurier
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Montréal
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="radio" radio="true",CHGA
+http://stream02.ustream.ca:8000/chga32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CKWE-FM
+http://stream03.ustream.ca/kitiganzibi128.mp3
+#EXTINF:-1 group-title="radio" radio="true",Première Ottawa-Gatineau
+http://2OOTT0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rimouski
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Première Rimouski
+http://2QRIM0.akacast.akamaistream.net/7/924/177397/v1/rc.akacast.akamaistream.net/2QRIM0
+#EXTINF:-1 group-title="radio" radio="true",FM 93
+http://s20.myradiostream.com:4070
+#EXTINF:-1 group-title="radio" radio="true",CIEL
+http://38.127.70.219:8409
+#EXTINF:-1 group-title="radio" radio="true",Radio Ntetemuk
+http://radio.cimb.fm:8991/
+#EXTINF:-1 group-title="radio" radio="true",CKMN
+http://orange.voltige.net:8000/ckmn
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Rimouski
+http://7QRIM0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",FM 107
+http://38.127.70.219:8407/
+#EXTINF:-1 group-title="radio" radio="true",Club de Radio Amateur de Trois Pistoles - 147.105MHz
+http://relay.radioreference.com:80/819131315
+#EXTINF:-1 group-title="radio" radio="true",Ville de Rouyn-Noranda
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CHIC-FM
+http://stream.zoneplus.ca:9952
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Montreal
+http://7QMTL0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="radio" radio="true",Première Rouyn-Noranda
+http://2QROU0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0
+#EXTINF:-1 group-title="radio" radio="true",Capitale Rock Abitibi
+http://stream.rncmedia.ca/rouyn.radiox.mp3
+#EXTINF:-1 group-title="radio" radio="true",CHUN-FM
+http://stream.zoneplus.ca:9954
+#EXTINF:-1 group-title="radio" radio="true",NRJ 99.1
+http://cjmm-aac.akacast.akamaistream.net/7/320/102120/v1/astral.akacast.akamaistream.net/cjmm-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Sherbrooke
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",CJMQ
+http://the.radioservers.biz:9996
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Sherbrooke
+http://7QSHE0.akacast.akamaistream.net/7/504/177413/v1/rc.akacast.akamaistream.net/7QSHE0
+#EXTINF:-1 group-title="radio" radio="true",CFLX
+http://50.7.70.58:8964
+#EXTINF:-1 group-title="radio" radio="true",CIGN-FM
+http://stream02.ustream.ca:8000/cignfm32.mp3
+#EXTINF:-1 group-title="radio" radio="true",CIDI
+http://shoutcast1.voxframe.net:8000/
+#EXTINF:-1 group-title="radio" radio="true",CJAN-FM
+http://174.142.215.249:9996
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",Première Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",Radio Acton
+http://stream02.ustream.ca:8000/cfid32.mp3
+#EXTINF:-1 group-title="radio" radio="true",Hot Country
+http://173.182.180.169:8000
+#EXTINF:-1 group-title="radio" radio="true",NRJ 106.1
+http://cimo-aac.akacast.akamaistream.net/7/557/102120/v1/astral.akacast.akamaistream.net/cimo-aac
+#EXTINF:-1 group-title="radio" radio="true",Ville de Trois-Riviere
+http://m3u.domtardif.info
+#EXTINF:-1 group-title="radio" radio="true",Radio Touristique Victoriaville à la Vélo Gare
+http://slmusic.info:9984/
+#EXTINF:-1 group-title="radio" radio="true",CFOU
+http://streamer.xittel.net:8000/cfou
+#EXTINF:-1 group-title="radio" radio="true",Radio VM
+http://192.240.102.130:7601/stream
+#EXTINF:-1 group-title="radio" radio="true",CKBN-FM
+http://stream.hebergementultra.com:8100/
+#EXTINF:-1 group-title="radio" radio="true",Radio Shawinigan
+http://m01.stream.ustream.ca/fm91132.mp3
+#EXTINF:-1 group-title="radio" radio="true",NRJ 92.1
+http://astral.akacast.akamaistream.net/7/731/102120/v1/astral.akacast.akamaistream.net/cjdm-aac
+#EXTINF:-1 group-title="radio" radio="true",Première Sherbrooke
+http://2QSHE0.akacast.akamaistream.net/7/329/177400/v1/rc.akacast.akamaistream.net/2QSHE0
+#EXTINF:-1 group-title="radio" radio="true",NRJ 98.7
+http://ciki-aac.akacast.akamaistream.net/7/688/102120/v1/astral.akacast.akamaistream.net/ciki-aac
+#EXTINF:-1 group-title="radio" radio="true",Première Trois-Rivières
+http://2QTRV0.akacast.akamaistream.net/7/145/177403/v1/rc.akacast.akamaistream.net/2QTRV0
+#EXTINF:-1 group-title="radio" radio="true",O97.3
+http://xlnetwork.info:5400/
+#EXTINF:-1 group-title="radio" radio="true",CHOX-FM
+http://38.127.70.219:8411
+#EXTINF:-1 group-title="radio" radio="true",Passion-Rock 101,9
+http://xlnetwork.info:7790/
+#EXTINF:-1 group-title="radio" radio="true",NRJ 102.3
+http://astral.akacast.akamaistream.net/7/102/102120/v1/astral.akacast.akamaistream.net/cigb-aac
+#EXTINF:-1 group-title="radio" radio="true",CH2O
+http://www.ch2ofm.ca:85/broadwave.m3u?src=1&kbps=96
+#EXTINF:-1 group-title="radio" radio="true",Ici Musique Trois-Rivières
+http://7QTRV0.akacast.akamaistream.net/7/87/177416/v1/rc.akacast.akamaistream.net/7QTRV0
+
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 16-08-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 16-08-2015--[/COLOR]  
+ 
+
+#EXTINF:-1,[COLOR yellow]--- MUSIC ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Zjarr TV
+rtmp://81.7.13.162/zjarrtv/ playpath=zjarrtv swfUrl=http://zjarr.tv/live/player.swf live=1 pageUrl=http://zjarr.tv/live/
+
+#EXTINF:-1, MAD TV
+rtmp://37.26.81.188/live/ playpath=livestream swfUrl=http://albanian.tv/player/player.swf live=1 pageUrl=http://albanian.tv/
+
+#EXTINF:-1, Ocko TV
+http://194.79.52.76:1935/ockoi/ockoHQ1/playlist.m3u8
+
+#EXTINF:-1, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1, TV m3
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1, CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1, Best Music HD 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1, Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1, MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:0, MTV Live HD 720P
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+
+#EXTINF:-1, Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1, Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1, Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1, NOW MUSIC  
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1, OH TV
+http://rrr.sz.xlcdn.com/?account=Un1ty&file=webukoh2we612e6&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1, Planet Pop
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1, Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1, First Music HD
+rtmp://109.239.142.62/live/livestream3
+
+#EXTINF:-1, IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+
+#EXTINF:-1, Polo Party TV 720p
+http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+
+#EXTINF:-1, A1 Hip Hop Music
+http://edge.ailetv.net/org5/aone_me/playlist.m3u8
+
+#EXTINF:0, Big Pond Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+
+#EXTINF:0, Bridge TV
+http://87.239.31.232/hls/230.3.4.252.sd.stream.m3u8
+
+#EXTINF:-1, Capital
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.djing.com/img/facebook.png" group-title="Music", DJing Dancefloor
+http://www.djing.com/tv/dancefloor.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.djing.com/img/facebook.png" group-title="Music", DJing Hot
+http://www.djing.com/tv/hothothot.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.djing.com/img/facebook.png" group-title="Music", DJing Underground
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1, Dream TV
+http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1, Eska Party TV 720p
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/Eska&Party&TV.m3u8
+ 
+#EXTINF:-1, Eska Party TV 480p
+http://stream.smcloud.net/live2/eska_party/eska_party_480p/Eska&Party&TV.m3u8
+ 
+#EXTINF:-1, Eska Best 480p
+http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+ 
+#EXTINF:-1, Eska Best 720p
+http://stream.smcloud.net:1935/live2/best/best_720p/playlist.sd.stream.m3u8
+ 
+#EXTINF:-1, Eska Rock TV 720p
+http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/Eska&Rock&TV.m3u8
+ 
+#EXTINF:-1, Eska Rock TV 480p
+http://stream.smcloud.net/live2/eska_rock/eska_rock_480p/Eska&Rock&TV.m3u8
+ 
+#EXTINF:-1, Eska Wawa 480p
+http://stream.smcloud.net/live2/wawa/wawa_480p/playlist.m3u8
+ 
+#EXTINF:-1, Eska Wawa 720p
+http://stream.smcloud.net/live2/wawa/wawa_720p/playlist.m3u8
+
+#EXTINF:-1, Europa Plus TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
+
+#EXTINF:-1, For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+
+#EXTINF:-1, Global Star
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+
+#EXTINF:-1, Gold TV
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+
+#EXTINF:-1, Hard Life
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
+
+#EXTINF:-1, Vox Music TV
+rtmp://stream.smcloud.net/live/vox2/stream1
+
+#EXTINF:-1, Vox Music TV - Old's Cool
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:0,One HD Live Mix
+rtmp://91.201.78.3:1935/live/onehdhd
+
+#EXTINF:0, One HD Pop
+rtmp://91.201.78.3:1935/live/pophd
+
+#EXTINF:0, One HD Rock
+rtmp://91.201.78.3:1935/live/rockhd
+
+#EXTINF:0, One HD Jazz
+rtmp://91.201.78.3:1935/live/jazzhd
+
+#EXTINF:0, One HD Classic
+rtmp://91.201.78.3:1935/live/classicshd
+
+#EXTINF:0, One HD Dance
+rtmp://91.201.78.3:1935/live/dancehd
+
+#EXTINF:0, Virgin TV
+rtmp://fms.105.net:1935/live/virgin1
+
+#EXTINF:0, Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
+
+#EXTINF:0, Radio Monte Carlo TV
+rtmp://fms.105.net:1935/live/rmc1
+~
+#EXTINF:0, First Music Channel
+rtmp://rtmp.one.by/SD/1muz
+
+#EXTINF:-1, Kral Pop
+http://edge.ailetv.net/org1/kralpoptv_me/playlist.m3u8
+
+#EXTINF:-1, Lobas TV
+http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+
+#EXTINF:-1, Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1, MFMTV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1, NRJ TV
+http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1, Power Turk
+http://edge.ailetv.net/org10/powerturktv_me/playlist.m3u8
+
+#EXTINF:-1, Q Music
+rtmp://vmmaeventlivefs.fplive.net/vmmaeventlive-live/vmma.radio-sdh
+
+#EXTINF:-1, Radio Italia
+http://cwedge.cdcache.net/cwedge/rilive/playlist.m3u8
+
+#EXTINF:-1, Radio U TV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
+
+#EXTINF:-1, Rebel TV
+http://95.211.203.5/live/rebel.stream/playlist.m3u8
+
+#EXTINF:-1, Single TV Music
+http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
+
+#EXTINF:-1, Streetclip.TV
+http://stream.streetclip.tv:1935/live/high-stream/index.m3u8
+
+#EXTINF:-1, Tuba TV
+rtmp://fms.gazeta.pl/aglive/tuba_tv
+
+#EXTINF:-1, Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1, Urban Music Tv
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+
+#EXTINF:-1, V!va
+http://edge.ailetv.net/org17/vivatv_me/playlist.m3u8
+
+#EXTINF:-1, Vivra
+http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
+ 
+#EXTINF:0, Mezzo Live HD (Russia)
+http://46.61.226.18/hls/CH_C05_MEZZOLIVEHD/bw3000000/variant.m3u8?version=2
